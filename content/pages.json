@@ -15,5 +15,53 @@
     "updatedAt": "2026-10-08T00:21:15.138Z",
     "updatedBy": "joshua",
     "isHome": true
+  },
+  {
+    "id": "pg-2",
+    "path": "/about",
+    "type": "page",
+    "title": "About Prime Exteriors | Exterior Cleaning, Melbourne | Prime Exteriors",
+    "seoTitle": "About Prime Exteriors | Exterior Cleaning, Melbourne | Prime Exteriors",
+    "seoDescription": "Who runs Prime Exteriors, what the business actually does, and where every number on this website can be checked. Exterior cleaning, restoration and protection across Melbourne from a Dallas 3047 base.",
+    "layout": "mockup",
+    "headerPartId": null,
+    "footerPartId": null,
+    "status": "draft",
+    "createdAt": "2026-10-08T00:24:53.771Z",
+    "createdBy": "joshua",
+    "updatedAt": "2026-10-08T00:24:53.771Z",
+    "updatedBy": "joshua"
+  },
+  {
+    "id": "pg-3",
+    "path": "/anti-graffiti-coating",
+    "type": "page",
+    "title": "Anti Graffiti Coating Melbourne | Sacrificial and Permanent | Prime Exteriors",
+    "seoTitle": "Anti Graffiti Coating Melbourne | Sacrificial and Permanent | Prime Exteriors",
+    "seoDescription": "Anti graffiti coatings for Melbourne walls that get tagged repeatedly. Sacrificial and permanent systems compared, with an honest note on when the wall is not worth coating.",
+    "layout": "mockup",
+    "headerPartId": null,
+    "footerPartId": null,
+    "status": "draft",
+    "createdAt": "2026-10-08T00:24:53.771Z",
+    "createdBy": "joshua",
+    "updatedAt": "2026-10-08T00:24:53.771Z",
+    "updatedBy": "joshua"
+  },
+  {
+    "id": "pg-4",
+    "path": "/anti-slip-sealing",
+    "type": "page",
+    "title": "Anti Slip Sealing Melbourne | Pool Surrounds, Ramps and Steps | Prime Exteriors",
+    "seoTitle": "Anti Slip Sealing Melbourne | Pool Surrounds, Ramps and Steps | Prime Exteriors",
+    "seoDescription": "Anti slip sealing across Melbourne for pool surrounds, ramps, steps and sloped driveways. A fine aggregate in the coat so the surface is protected and has grip, rather than protected and shiny.",
+    "layout": "mockup",
+    "headerPartId": null,
+    "footerPartId": null,
+    "status": "draft",
+    "createdAt": "2026-10-08T00:24:53.771Z",
+    "createdBy": "joshua",
+    "updatedAt": "2026-10-08T00:24:53.771Z",
+    "updatedBy": "joshua"
   }
 ]
