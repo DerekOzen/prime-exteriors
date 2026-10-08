@@ -1,7 +1,7 @@
 [
   {
     "id": "pg-1",
-    "path": "/home",
+    "path": "/",
     "type": "page",
     "title": "Home",
     "seoTitle": "Exterior Cleaning Melbourne | High Pressure Cleaning | Prime Exteriors",
@@ -10,9 +10,10 @@
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
     "status": "published",
-    "updatedAt": "2026-10-08T23:51:01.208Z",
+    "updatedAt": "2026-10-08T23:56:05.523Z",
     "updatedBy": "vipin",
     "createdAt": "2026-10-08T23:49:47.915Z",
-    "createdBy": "vipin"
+    "createdBy": "vipin",
+    "isHome": true
   }
 ]
