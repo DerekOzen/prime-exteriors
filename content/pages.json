@@ -2335,5 +2335,53 @@
     "createdBy": "vipin",
     "updatedAt": "2026-10-09T04:44:11.490Z",
     "updatedBy": "vipin"
+  },
+  {
+    "id": "pg-148",
+    "path": "/locations/vic/exterior-cleaning-merri-bek",
+    "type": "location",
+    "title": "Exterior Cleaning Merri-bek | Pressure Washing and Window Cleaning | Prime Exteriors",
+    "seoTitle": "Exterior Cleaning Merri-bek | Pressure Washing and Window Cleaning | Prime Exteriors",
+    "seoDescription": "Exterior cleaning across Merri-bek: driveways, house washing, windows, gutters, stain removal and sealing. 161,918 people, 7.2 km from our Dallas 3047 base, residential, commercial and body corporate.",
+    "layout": "mockup",
+    "headerPartId": "header-3",
+    "footerPartId": "footer-3",
+    "status": "draft",
+    "createdAt": "2026-10-09T04:45:38.337Z",
+    "createdBy": "vipin",
+    "updatedAt": "2026-10-09T04:45:38.337Z",
+    "updatedBy": "vipin"
+  },
+  {
+    "id": "pg-149",
+    "path": "/locations/vic/exterior-cleaning-moonee-valley",
+    "type": "location",
+    "title": "Exterior Cleaning Moonee Valley | Pressure Washing and Window Cleaning | Prime Exteriors",
+    "seoTitle": "Exterior Cleaning Moonee Valley | Pressure Washing and Window Cleaning | Prime Exteriors",
+    "seoDescription": "Exterior cleaning across Moonee Valley: driveways, house washing, windows, gutters, stain removal and sealing. 101,448 people, 9.5 km from our Dallas 3047 base, residential, commercial and body corporate.",
+    "layout": "mockup",
+    "headerPartId": "header-3",
+    "footerPartId": "footer-3",
+    "status": "draft",
+    "createdAt": "2026-10-09T04:45:38.337Z",
+    "createdBy": "vipin",
+    "updatedAt": "2026-10-09T04:45:38.337Z",
+    "updatedBy": "vipin"
+  },
+  {
+    "id": "pg-150",
+    "path": "/locations/vic/exterior-cleaning-nillumbik",
+    "type": "location",
+    "title": "Exterior Cleaning Nillumbik | Pressure Washing and Window Cleaning | Prime Exteriors",
+    "seoTitle": "Exterior Cleaning Nillumbik | Pressure Washing and Window Cleaning | Prime Exteriors",
+    "seoDescription": "Exterior cleaning across Nillumbik: driveways, house washing, windows, gutters, stain removal and sealing. 45,907 people, 20.4 km from our Dallas 3047 base, residential, commercial and body corporate.",
+    "layout": "mockup",
+    "headerPartId": "header-3",
+    "footerPartId": "footer-3",
+    "status": "draft",
+    "createdAt": "2026-10-09T04:45:38.337Z",
+    "createdBy": "vipin",
+    "updatedAt": "2026-10-09T04:45:38.337Z",
+    "updatedBy": "vipin"
   }
 ]
