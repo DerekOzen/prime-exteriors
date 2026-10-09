@@ -92,7 +92,8 @@
     "fonts": [
       "https://fonts.googleapis.com/css2?family=Archivo:wght@400;600;700;800&family=Inter:wght@400;500;600;700&display=swap"
     ],
-    "updatedAt": "2026-10-09T06:43:51.498Z"
+    "updatedAt": "2026-10-09T07:39:44.853Z",
+    "deleted": true
   },
   {
     "id": "header-8",
