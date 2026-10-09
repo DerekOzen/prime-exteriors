@@ -1599,8 +1599,9 @@
     "status": "published",
     "createdAt": "2026-10-09T03:53:28.538Z",
     "createdBy": "vipin",
-    "updatedAt": "2026-10-09T10:00:53.794Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-10-09T10:05:56.086Z",
+    "updatedBy": "derek",
+    "category": "Blog"
   },
   {
     "id": "pg-103",
@@ -1615,9 +1616,8 @@
     "status": "published",
     "createdAt": "2026-10-09T03:53:28.538Z",
     "createdBy": "vipin",
-    "updatedAt": "2026-10-09T10:06:00.935Z",
-    "updatedBy": "derek",
-    "category": "Blog"
+    "updatedAt": "2026-10-09T10:01:14.583Z",
+    "updatedBy": "derek"
   },
   {
     "id": "pg-104",
