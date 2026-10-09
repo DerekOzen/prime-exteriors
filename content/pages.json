@@ -1,22 +1,5 @@
 [
   {
-    "id": "pg-1",
-    "path": "/",
-    "type": "page",
-    "title": "Home",
-    "seoTitle": "Exterior Cleaning Melbourne | High Pressure Cleaning | Prime Exteriors",
-    "seoDescription": "Specialist exterior cleaning across Melbourne. High pressure cleaning for driveways, concrete and paving, plus window cleaning, gutters and graffiti removal. 5.0 from 37 Google reviews. Free quotes from photos.",
-    "layout": "mockup",
-    "headerPartId": "header-7",
-    "footerPartId": "footer-3",
-    "status": "deleted",
-    "updatedAt": "2026-10-09T07:02:08.930Z",
-    "updatedBy": "vipin",
-    "createdAt": "2026-10-08T23:49:47.915Z",
-    "createdBy": "vipin",
-    "isHome": false
-  },
-  {
     "id": "pg-2",
     "path": "/service/pressure-surface-cleaning/outdoor-tile-cleaning",
     "type": "page",
