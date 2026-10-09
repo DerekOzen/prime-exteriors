@@ -433,23 +433,6 @@
     "updatedBy": "vipin"
   },
   {
-    "id": "pg-28",
-    "path": "/start-here",
-    "type": "page",
-    "title": "Start here | Prime Exteriors mockups",
-    "seoTitle": "Start here | Prime Exteriors mockups",
-    "seoDescription": "",
-    "layout": "mockup",
-    "headerPartId": "header-3",
-    "footerPartId": "footer-3",
-    "status": "deleted",
-    "createdAt": "2026-10-09T01:14:04.032Z",
-    "createdBy": "vipin",
-    "updatedAt": "2026-10-09T04:48:36.011Z",
-    "updatedBy": "vipin",
-    "isHome": false
-  },
-  {
     "id": "pg-29",
     "path": "/service/sealing-surface-protection/stone-bluestone-sealing",
     "type": "service",
