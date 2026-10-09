@@ -41,6 +41,32 @@
     "fonts": [
       "https://fonts.googleapis.com/css2?family=Archivo:wght@400;600;700;800&family=Inter:wght@400;500;600;700&display=swap"
     ],
-    "updatedAt": "2026-10-09T05:47:32.160Z"
+    "updatedAt": "2026-10-09T05:55:54.117Z",
+    "settings": {
+      "sticky": false,
+      "autoHide": false,
+      "scrollBreakpoint": 60,
+      "transparent": false,
+      "shadow": "none",
+      "mobileMenu": false,
+      "mobileBreakpoint": 900
+    },
+    "layout": {
+      "enabled": false,
+      "rows": [
+        {
+          "id": "row-73f2ee48",
+          "left": [],
+          "center": [],
+          "right": [],
+          "bg": "#ffffff",
+          "color": "#0f172a",
+          "height": 64,
+          "hideMobile": false
+        }
+      ],
+      "accent": "#0f766e",
+      "maxWidth": 1200
+    }
   }
 ]
