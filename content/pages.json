@@ -138,10 +138,10 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-10-09T01:01:18.485Z",
     "createdBy": "vipin",
-    "updatedAt": "2026-10-09T01:01:18.485Z",
+    "updatedAt": "2026-10-09T01:03:43.600Z",
     "updatedBy": "vipin"
   }
 ]
