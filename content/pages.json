@@ -1070,8 +1070,9 @@
     "status": "published",
     "createdAt": "2026-10-09T01:51:34.824Z",
     "createdBy": "vipin",
-    "updatedAt": "2026-10-09T09:59:26.451Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-10-09T10:05:52.130Z",
+    "updatedBy": "derek",
+    "category": "Blog"
   },
   {
     "id": "pg-70",
