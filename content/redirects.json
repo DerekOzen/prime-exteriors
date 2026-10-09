@@ -1,5 +1,11 @@
 [
   {
+    "from": "/start-here",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-09T04:49:18.718Z"
+  },
+  {
     "from": "/change-log",
     "to": "/",
     "code": 301,
