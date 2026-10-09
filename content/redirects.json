@@ -1,5 +1,11 @@
 [
   {
+    "from": "/change-log",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-09T04:39:03.089Z"
+  },
+  {
     "from": "/anti-slip-sealing",
     "to": "/",
     "code": 301,
