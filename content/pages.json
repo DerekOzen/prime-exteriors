@@ -204,8 +204,9 @@
     "status": "published",
     "createdAt": "2026-10-09T01:08:22.086Z",
     "createdBy": "vipin",
-    "updatedAt": "2026-10-09T09:52:30.632Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-10-09T10:05:39.807Z",
+    "updatedBy": "derek",
+    "category": "Blog"
   },
   {
     "id": "pg-15",
@@ -380,8 +381,9 @@
     "status": "published",
     "createdAt": "2026-10-09T01:14:04.032Z",
     "createdBy": "vipin",
-    "updatedAt": "2026-10-09T09:55:13.585Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-10-09T10:05:44.882Z",
+    "updatedBy": "derek",
+    "category": "Blog"
   },
   {
     "id": "pg-26",
@@ -1068,8 +1070,9 @@
     "status": "published",
     "createdAt": "2026-10-09T01:51:34.824Z",
     "createdBy": "vipin",
-    "updatedAt": "2026-10-09T09:59:26.451Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-10-09T10:05:52.130Z",
+    "updatedBy": "derek",
+    "category": "Blog"
   },
   {
     "id": "pg-70",
@@ -1612,8 +1615,9 @@
     "status": "published",
     "createdAt": "2026-10-09T03:53:28.538Z",
     "createdBy": "vipin",
-    "updatedAt": "2026-10-09T10:01:14.583Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-10-09T10:06:00.935Z",
+    "updatedBy": "derek",
+    "category": "Blog"
   },
   {
     "id": "pg-104",
@@ -1900,8 +1904,8 @@
     "status": "published",
     "createdAt": "2026-10-09T04:03:30.746Z",
     "createdBy": "vipin",
-    "updatedAt": "2026-10-09T10:05:41.463Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-10-09T04:04:23.987Z",
+    "updatedBy": "vipin"
   },
   {
     "id": "pg-123",
