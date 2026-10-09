@@ -1921,23 +1921,6 @@
     "updatedBy": "vipin"
   },
   {
-    "id": "pg-121",
-    "path": "/change-log",
-    "type": "page",
-    "title": "Change register | Prime Exteriors",
-    "seoTitle": "Change register | Prime Exteriors",
-    "seoDescription": "",
-    "layout": "mockup",
-    "headerPartId": "header-3",
-    "footerPartId": "footer-3",
-    "status": "deleted",
-    "createdAt": "2026-10-09T04:03:30.746Z",
-    "createdBy": "vipin",
-    "updatedAt": "2026-10-09T04:38:40.092Z",
-    "updatedBy": "vipin",
-    "isHome": false
-  },
-  {
     "id": "pg-122",
     "path": "/service/house-building-washing/cladding-weatherboard-cleaning",
     "type": "service",
