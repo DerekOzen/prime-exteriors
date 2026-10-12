@@ -2369,10 +2369,12 @@
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
     "status": "published",
-    "updatedAt": "2026-10-09T07:36:27.140Z",
-    "updatedBy": "vipin",
+    "updatedAt": "2026-10-12T06:03:32.831Z",
+    "updatedBy": "sebastian",
     "createdAt": "2026-10-09T07:03:10.640Z",
     "createdBy": "vipin",
-    "isHome": true
+    "isHome": true,
+    "featuredImage": "/uploads/featured-home-uj69t.jpg",
+    "featuredImageAlt": "Exterior cleaning, restoration and protection"
   }
 ]
