@@ -137,11 +137,12 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-09T01:08:22.086Z",
     "createdBy": "vipin",
-    "updatedAt": "2026-10-09T09:46:22.869Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-10-12T07:24:16.520Z",
+    "updatedBy": "vipin",
+    "isHome": false
   },
   {
     "id": "pg-11",
@@ -153,11 +154,12 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-09T01:08:22.086Z",
     "createdBy": "vipin",
-    "updatedAt": "2026-10-09T09:51:39.362Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-10-12T07:24:16.520Z",
+    "updatedBy": "vipin",
+    "isHome": false
   },
   {
     "id": "pg-12",
@@ -169,13 +171,14 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-09T01:08:22.086Z",
     "createdBy": "vipin",
-    "updatedAt": "2026-10-12T06:11:13.917Z",
-    "updatedBy": "sebastian",
+    "updatedAt": "2026-10-12T07:24:16.520Z",
+    "updatedBy": "vipin",
     "featuredImage": "/uploads/featured-exterior-cleaning-for-real-estate-and-property-man-ut2bx.jpg",
-    "featuredImageAlt": "Exterior cleaning for real estate agents and property managers in Melbourne"
+    "featuredImageAlt": "Exterior cleaning for real estate agents and property managers in Melbourne",
+    "isHome": false
   },
   {
     "id": "pg-13",
@@ -187,11 +190,12 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-09T01:08:22.086Z",
     "createdBy": "vipin",
-    "updatedAt": "2026-10-09T09:52:14.109Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-10-12T07:24:16.520Z",
+    "updatedBy": "vipin",
+    "isHome": false
   },
   {
     "id": "pg-14",
@@ -220,13 +224,14 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-09T01:08:22.086Z",
     "createdBy": "vipin",
-    "updatedAt": "2026-10-12T06:12:13.608Z",
-    "updatedBy": "sebastian",
+    "updatedAt": "2026-10-12T07:24:16.520Z",
+    "updatedBy": "vipin",
     "featuredImage": "/uploads/featured-retail-and-hospitality-exterior-cleaning-melbourne-uuccn.jpg",
-    "featuredImageAlt": "Retail and hospitality exterior cleaning in Melbourne"
+    "featuredImageAlt": "Retail and hospitality exterior cleaning in Melbourne",
+    "isHome": false
   },
   {
     "id": "pg-16",
@@ -255,11 +260,12 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-09T01:08:22.086Z",
     "createdBy": "vipin",
-    "updatedAt": "2026-10-09T09:53:19.156Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-10-12T07:24:16.520Z",
+    "updatedBy": "vipin",
+    "isHome": false
   },
   {
     "id": "pg-18",
@@ -271,11 +277,12 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-09T01:08:22.086Z",
     "createdBy": "vipin",
-    "updatedAt": "2026-10-09T09:53:37.565Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-10-12T07:24:16.520Z",
+    "updatedBy": "vipin",
+    "isHome": false
   },
   {
     "id": "pg-19",
@@ -287,13 +294,14 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-09T01:08:22.086Z",
     "createdBy": "vipin",
-    "updatedAt": "2026-10-12T06:13:12.984Z",
-    "updatedBy": "sebastian",
+    "updatedAt": "2026-10-12T07:24:16.520Z",
+    "updatedBy": "vipin",
     "featuredImage": "/uploads/featured-scheduled-exterior-maintenance-melbourne-prime-ext-uvm0s.jpg",
-    "featuredImageAlt": "Scheduled exterior maintenance in Melbourne"
+    "featuredImageAlt": "Scheduled exterior maintenance in Melbourne",
+    "isHome": false
   },
   {
     "id": "pg-20",
@@ -305,13 +313,14 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-09T01:14:04.032Z",
     "createdBy": "vipin",
-    "updatedAt": "2026-10-12T06:13:48.887Z",
-    "updatedBy": "sebastian",
+    "updatedAt": "2026-10-12T07:24:16.520Z",
+    "updatedBy": "vipin",
     "featuredImage": "/uploads/featured-school-and-childcare-exterior-cleaning-melbourne-p-uwdox.jpg",
-    "featuredImageAlt": "School and childcare exterior cleaning in Melbourne"
+    "featuredImageAlt": "School and childcare exterior cleaning in Melbourne",
+    "isHome": false
   },
   {
     "id": "pg-21",
@@ -339,11 +348,12 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-09T01:14:04.032Z",
     "createdBy": "vipin",
-    "updatedAt": "2026-10-09T09:54:26.143Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-10-12T07:24:16.520Z",
+    "updatedBy": "vipin",
+    "isHome": false
   },
   {
     "id": "pg-23",
@@ -355,13 +365,14 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-09T01:14:04.032Z",
     "createdBy": "vipin",
-    "updatedAt": "2026-10-12T06:14:16.754Z",
-    "updatedBy": "sebastian",
+    "updatedAt": "2026-10-12T07:24:16.520Z",
+    "updatedBy": "vipin",
     "featuredImage": "/uploads/featured-sign-cleaning-melbourne-illuminated-acrylic-and-me-uwysy.jpg",
-    "featuredImageAlt": "Sign cleaning in Melbourne"
+    "featuredImageAlt": "Sign cleaning in Melbourne",
+    "isHome": false
   },
   {
     "id": "pg-24",
@@ -373,11 +384,12 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-09T01:14:04.032Z",
     "createdBy": "vipin",
-    "updatedAt": "2026-10-09T09:54:57.024Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-10-12T07:24:16.520Z",
+    "updatedBy": "vipin",
+    "isHome": false
   },
   {
     "id": "pg-25",
@@ -406,11 +418,12 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-09T01:14:04.032Z",
     "createdBy": "vipin",
-    "updatedAt": "2026-10-09T09:55:30.285Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-10-12T07:24:16.520Z",
+    "updatedBy": "vipin",
+    "isHome": false
   },
   {
     "id": "pg-27",
@@ -422,11 +435,12 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-09T01:14:04.032Z",
     "createdBy": "vipin",
-    "updatedAt": "2026-10-09T09:55:49.382Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-10-12T07:24:16.520Z",
+    "updatedBy": "vipin",
+    "isHome": false
   },
   {
     "id": "pg-29",
@@ -438,11 +452,12 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-09T01:14:04.032Z",
     "createdBy": "vipin",
-    "updatedAt": "2026-10-09T09:56:08.024Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-10-12T07:24:16.520Z",
+    "updatedBy": "vipin",
+    "isHome": false
   },
   {
     "id": "pg-30",
@@ -454,11 +469,12 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-09T01:33:52.933Z",
     "createdBy": "vipin",
-    "updatedAt": "2026-10-09T09:56:24.802Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-10-12T07:24:16.520Z",
+    "updatedBy": "vipin",
+    "isHome": false
   },
   {
     "id": "pg-31",
@@ -518,11 +534,12 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-09T01:33:52.933Z",
     "createdBy": "vipin",
-    "updatedAt": "2026-10-09T09:56:43.816Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-10-12T07:24:16.520Z",
+    "updatedBy": "vipin",
+    "isHome": false
   },
   {
     "id": "pg-35",
@@ -534,11 +551,12 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-09T01:33:52.933Z",
     "createdBy": "vipin",
-    "updatedAt": "2026-10-09T09:56:59.963Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-10-12T07:24:16.520Z",
+    "updatedBy": "vipin",
+    "isHome": false
   },
   {
     "id": "pg-36",
@@ -759,11 +777,12 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-09T01:41:27.213Z",
     "createdBy": "vipin",
-    "updatedAt": "2026-10-09T10:09:20.785Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-10-12T07:24:16.520Z",
+    "updatedBy": "vipin",
+    "isHome": false
   },
   {
     "id": "pg-50",
@@ -855,11 +874,12 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-09T01:46:11.113Z",
     "createdBy": "vipin",
-    "updatedAt": "2026-10-09T10:09:38.772Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-10-12T07:24:16.520Z",
+    "updatedBy": "vipin",
+    "isHome": false
   },
   {
     "id": "pg-56",
@@ -871,13 +891,14 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-09T01:46:11.113Z",
     "createdBy": "vipin",
-    "updatedAt": "2026-10-12T06:09:17.020Z",
-    "updatedBy": "sebastian",
+    "updatedAt": "2026-10-12T07:24:16.520Z",
+    "updatedBy": "vipin",
     "featuredImage": "/uploads/featured-factory-and-industrial-exterior-cleaning-melbourne-uqk6z.jpg",
-    "featuredImageAlt": "Factory and industrial exterior cleaning in Melbourne"
+    "featuredImageAlt": "Factory and industrial exterior cleaning in Melbourne",
+    "isHome": false
   },
   {
     "id": "pg-57",
@@ -889,11 +910,12 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-09T01:46:11.113Z",
     "createdBy": "vipin",
-    "updatedAt": "2026-10-09T09:58:09.085Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-10-12T07:24:16.520Z",
+    "updatedBy": "vipin",
+    "isHome": false
   },
   {
     "id": "pg-58",
@@ -905,11 +927,12 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-09T01:46:11.113Z",
     "createdBy": "vipin",
-    "updatedAt": "2026-10-09T09:58:25.633Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-10-12T07:24:16.520Z",
+    "updatedBy": "vipin",
+    "isHome": false
   },
   {
     "id": "pg-59",
@@ -921,11 +944,12 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-09T01:46:11.113Z",
     "createdBy": "vipin",
-    "updatedAt": "2026-10-09T09:58:40.380Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-10-12T07:24:16.520Z",
+    "updatedBy": "vipin",
+    "isHome": false
   },
   {
     "id": "pg-60",
@@ -937,11 +961,12 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-09T01:51:34.824Z",
     "createdBy": "vipin",
-    "updatedAt": "2026-10-09T09:58:55.191Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-10-12T07:24:16.520Z",
+    "updatedBy": "vipin",
+    "isHome": false
   },
   {
     "id": "pg-61",
@@ -953,11 +978,12 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-09T01:51:34.824Z",
     "createdBy": "vipin",
-    "updatedAt": "2026-10-09T09:59:10.987Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-10-12T07:24:16.520Z",
+    "updatedBy": "vipin",
+    "isHome": false
   },
   {
     "id": "pg-62",
@@ -1546,11 +1572,12 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-09T02:22:59.512Z",
     "createdBy": "vipin",
-    "updatedAt": "2026-10-09T09:59:43.369Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-10-12T07:24:16.520Z",
+    "updatedBy": "vipin",
+    "isHome": false
   },
   {
     "id": "pg-99",
@@ -1562,11 +1589,12 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-09T02:22:59.512Z",
     "createdBy": "vipin",
-    "updatedAt": "2026-10-09T10:00:03.061Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-10-12T07:24:16.520Z",
+    "updatedBy": "vipin",
+    "isHome": false
   },
   {
     "id": "pg-100",
@@ -1578,11 +1606,12 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-09T03:53:28.538Z",
     "createdBy": "vipin",
-    "updatedAt": "2026-10-09T10:00:19.717Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-10-12T07:24:16.520Z",
+    "updatedBy": "vipin",
+    "isHome": false
   },
   {
     "id": "pg-101",
@@ -1594,11 +1623,12 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-09T03:53:28.538Z",
     "createdBy": "vipin",
-    "updatedAt": "2026-10-09T10:00:35.175Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-10-12T07:24:16.520Z",
+    "updatedBy": "vipin",
+    "isHome": false
   },
   {
     "id": "pg-102",
@@ -1660,13 +1690,14 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-09T03:53:28.538Z",
     "createdBy": "vipin",
-    "updatedAt": "2026-10-12T06:10:15.712Z",
-    "updatedBy": "sebastian",
+    "updatedAt": "2026-10-12T07:24:16.520Z",
+    "updatedBy": "vipin",
     "featuredImage": "/uploads/featured-medical-and-aged-care-exterior-cleaning-melbourne--ursv7.jpg",
-    "featuredImageAlt": "Medical and aged care exterior cleaning in Melbourne"
+    "featuredImageAlt": "Medical and aged care exterior cleaning in Melbourne",
+    "isHome": false
   },
   {
     "id": "pg-106",
@@ -1678,11 +1709,12 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-09T03:53:28.538Z",
     "createdBy": "vipin",
-    "updatedAt": "2026-10-09T10:01:49.032Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-10-12T07:24:16.520Z",
+    "updatedBy": "vipin",
+    "isHome": false
   },
   {
     "id": "pg-107",
@@ -1694,11 +1726,12 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-09T03:53:28.538Z",
     "createdBy": "vipin",
-    "updatedAt": "2026-10-09T10:02:05.545Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-10-12T07:24:16.520Z",
+    "updatedBy": "vipin",
+    "isHome": false
   },
   {
     "id": "pg-108",
@@ -1710,11 +1743,12 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-09T03:53:28.538Z",
     "createdBy": "vipin",
-    "updatedAt": "2026-10-09T10:02:22.182Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-10-12T07:24:16.520Z",
+    "updatedBy": "vipin",
+    "isHome": false
   },
   {
     "id": "pg-109",
@@ -1726,11 +1760,12 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-09T03:58:49.988Z",
     "createdBy": "vipin",
-    "updatedAt": "2026-10-09T10:02:39.330Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-10-12T07:24:16.520Z",
+    "updatedBy": "vipin",
+    "isHome": false
   },
   {
     "id": "pg-110",
@@ -1742,11 +1777,12 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-09T03:58:49.988Z",
     "createdBy": "vipin",
-    "updatedAt": "2026-10-09T10:02:57.841Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-10-12T07:24:16.520Z",
+    "updatedBy": "vipin",
+    "isHome": false
   },
   {
     "id": "pg-111",
@@ -1776,11 +1812,12 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-09T03:58:49.988Z",
     "createdBy": "vipin",
-    "updatedAt": "2026-10-09T10:03:18.653Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-10-12T07:24:16.520Z",
+    "updatedBy": "vipin",
+    "isHome": false
   },
   {
     "id": "pg-113",
@@ -1792,11 +1829,12 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-09T03:58:49.988Z",
     "createdBy": "vipin",
-    "updatedAt": "2026-10-09T10:03:35.570Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-10-12T07:24:16.520Z",
+    "updatedBy": "vipin",
+    "isHome": false
   },
   {
     "id": "pg-114",
@@ -1808,11 +1846,12 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-09T03:58:49.988Z",
     "createdBy": "vipin",
-    "updatedAt": "2026-10-09T10:03:53.156Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-10-12T07:24:16.520Z",
+    "updatedBy": "vipin",
+    "isHome": false
   },
   {
     "id": "pg-115",
@@ -1824,13 +1863,14 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-09T03:58:49.988Z",
     "createdBy": "vipin",
-    "updatedAt": "2026-10-12T06:05:23.898Z",
-    "updatedBy": "sebastian",
+    "updatedAt": "2026-10-12T07:24:16.520Z",
+    "updatedBy": "vipin",
     "featuredImage": "/uploads/featured-body-corporate-and-strata-exterior-cleaning-melbou-ulk56.jpg",
-    "featuredImageAlt": "Body corporate and strata exterior cleaning in Melbourne"
+    "featuredImageAlt": "Body corporate and strata exterior cleaning in Melbourne",
+    "isHome": false
   },
   {
     "id": "pg-116",
@@ -1842,11 +1882,12 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-09T03:58:49.988Z",
     "createdBy": "vipin",
-    "updatedAt": "2026-10-09T10:13:06.778Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-10-12T07:24:16.520Z",
+    "updatedBy": "vipin",
+    "isHome": false
   },
   {
     "id": "pg-117",
@@ -1858,13 +1899,14 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-09T03:58:49.988Z",
     "createdBy": "vipin",
-    "updatedAt": "2026-10-12T06:05:52.903Z",
-    "updatedBy": "sebastian",
+    "updatedAt": "2026-10-12T07:24:16.520Z",
+    "updatedBy": "vipin",
     "featuredImage": "/uploads/featured-exterior-cleaning-for-builders-and-developers-melb-um6hx.jpg",
-    "featuredImageAlt": "Exterior cleaning for builders and developers in Melbourne"
+    "featuredImageAlt": "Exterior cleaning for builders and developers in Melbourne",
+    "isHome": false
   },
   {
     "id": "pg-118",
@@ -1876,11 +1918,12 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-09T03:58:49.988Z",
     "createdBy": "vipin",
-    "updatedAt": "2026-10-09T10:04:55.413Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-10-12T07:24:16.520Z",
+    "updatedBy": "vipin",
+    "isHome": false
   },
   {
     "id": "pg-119",
@@ -1892,11 +1935,12 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-09T04:03:30.746Z",
     "createdBy": "vipin",
-    "updatedAt": "2026-10-09T13:47:21.054Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-10-12T07:24:16.520Z",
+    "updatedBy": "vipin",
+    "isHome": false
   },
   {
     "id": "pg-120",
@@ -1908,13 +1952,14 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-09T04:03:30.746Z",
     "createdBy": "vipin",
-    "updatedAt": "2026-10-12T06:07:15.272Z",
-    "updatedBy": "sebastian",
+    "updatedAt": "2026-10-12T07:24:16.520Z",
+    "updatedBy": "vipin",
     "featuredImage": "/uploads/featured-car-park-and-hardstand-cleaning-melbourne-prime-ex-unxeb.jpg",
-    "featuredImageAlt": "Car park and hardstand cleaning in Melbourne"
+    "featuredImageAlt": "Car park and hardstand cleaning in Melbourne",
+    "isHome": false
   },
   {
     "id": "pg-122",
@@ -1926,11 +1971,12 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-09T04:03:30.746Z",
     "createdBy": "vipin",
-    "updatedAt": "2026-10-09T04:04:23.987Z",
-    "updatedBy": "vipin"
+    "updatedAt": "2026-10-12T07:24:16.520Z",
+    "updatedBy": "vipin",
+    "isHome": false
   },
   {
     "id": "pg-123",
@@ -1942,13 +1988,14 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-09T04:03:30.746Z",
     "createdBy": "vipin",
-    "updatedAt": "2026-10-12T06:04:51.172Z",
-    "updatedBy": "sebastian",
+    "updatedAt": "2026-10-12T07:24:16.520Z",
+    "updatedBy": "vipin",
     "featuredImage": "/uploads/featured-commercial-exterior-cleaning-melbourne-prime-exter-ukuvk.jpg",
-    "featuredImageAlt": "Commercial exterior cleaning in Melbourne"
+    "featuredImageAlt": "Commercial exterior cleaning in Melbourne",
+    "isHome": false
   },
   {
     "id": "pg-124",
@@ -1960,13 +2007,14 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-09T04:03:30.746Z",
     "createdBy": "vipin",
-    "updatedAt": "2026-10-12T06:08:18.003Z",
-    "updatedBy": "sebastian",
+    "updatedAt": "2026-10-12T07:24:16.520Z",
+    "updatedBy": "vipin",
     "featuredImage": "/uploads/featured-commercial-building-washing-melbourne-low-rise-ext-upaf9.jpg",
-    "featuredImageAlt": "Commercial building washing in Melbourne"
+    "featuredImageAlt": "Commercial building washing in Melbourne",
+    "isHome": false
   },
   {
     "id": "pg-125",
@@ -1978,11 +2026,12 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-09T04:03:30.746Z",
     "createdBy": "vipin",
-    "updatedAt": "2026-10-09T10:17:12.617Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-10-12T07:24:16.520Z",
+    "updatedBy": "vipin",
+    "isHome": false
   },
   {
     "id": "pg-126",
@@ -1994,11 +2043,12 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-09T04:03:30.746Z",
     "createdBy": "vipin",
-    "updatedAt": "2026-10-09T10:18:14.274Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-10-12T07:24:16.520Z",
+    "updatedBy": "vipin",
+    "isHome": false
   },
   {
     "id": "pg-127",
@@ -2010,11 +2060,12 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-09T04:03:30.746Z",
     "createdBy": "vipin",
-    "updatedAt": "2026-10-09T10:19:18.172Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-10-12T07:24:16.520Z",
+    "updatedBy": "vipin",
+    "isHome": false
   },
   {
     "id": "pg-128",
@@ -2026,11 +2077,12 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-09T04:03:30.746Z",
     "createdBy": "vipin",
-    "updatedAt": "2026-10-09T10:20:20.733Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-10-12T07:24:16.520Z",
+    "updatedBy": "vipin",
+    "isHome": false
   },
   {
     "id": "pg-129",
@@ -2042,11 +2094,12 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-09T04:37:55.730Z",
     "createdBy": "vipin",
-    "updatedAt": "2026-10-09T10:21:20.975Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-10-12T07:24:16.520Z",
+    "updatedBy": "vipin",
+    "isHome": false
   },
   {
     "id": "pg-130",
@@ -2074,11 +2127,12 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-09T04:37:55.730Z",
     "createdBy": "vipin",
-    "updatedAt": "2026-10-09T10:22:20.958Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-10-12T07:24:16.520Z",
+    "updatedBy": "vipin",
+    "isHome": false
   },
   {
     "id": "pg-132",
@@ -2090,11 +2144,12 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-09T04:37:55.730Z",
     "createdBy": "vipin",
-    "updatedAt": "2026-10-09T10:23:20.960Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-10-12T07:24:16.520Z",
+    "updatedBy": "vipin",
+    "isHome": false
   },
   {
     "id": "pg-133",
@@ -2106,11 +2161,12 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-09T04:37:55.730Z",
     "createdBy": "vipin",
-    "updatedAt": "2026-10-09T10:24:21.028Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-10-12T07:24:16.520Z",
+    "updatedBy": "vipin",
+    "isHome": false
   },
   {
     "id": "pg-134",
@@ -2122,11 +2178,12 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-09T04:37:55.730Z",
     "createdBy": "vipin",
-    "updatedAt": "2026-10-09T10:25:16.315Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-10-12T07:24:16.520Z",
+    "updatedBy": "vipin",
+    "isHome": false
   },
   {
     "id": "pg-135",
@@ -2138,11 +2195,12 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-09T04:37:55.730Z",
     "createdBy": "vipin",
-    "updatedAt": "2026-10-09T10:26:19.789Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-10-12T07:24:16.520Z",
+    "updatedBy": "vipin",
+    "isHome": false
   },
   {
     "id": "pg-136",
@@ -2154,11 +2212,12 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-09T04:37:55.730Z",
     "createdBy": "vipin",
-    "updatedAt": "2026-10-09T10:27:21.338Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-10-12T07:24:16.520Z",
+    "updatedBy": "vipin",
+    "isHome": false
   },
   {
     "id": "pg-137",
@@ -2170,11 +2229,12 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-09T04:37:55.730Z",
     "createdBy": "vipin",
-    "updatedAt": "2026-10-09T10:28:20.809Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-10-12T07:24:16.520Z",
+    "updatedBy": "vipin",
+    "isHome": false
   },
   {
     "id": "pg-138",
