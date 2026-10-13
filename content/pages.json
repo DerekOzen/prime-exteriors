@@ -2545,5 +2545,21 @@
     "updatedBy": "derek",
     "createdAt": "2026-10-13T03:13:03.792Z",
     "createdBy": "derek"
+  },
+  {
+    "id": "pg-161",
+    "path": "/new-gutter-cleaning",
+    "type": "page",
+    "title": "New Gutter Cleaning",
+    "seoTitle": "Gutter Cleaning Melbourne | Cleared & Flushed | Prime Exteriors",
+    "seoDescription": "Gutter cleaning across Melbourne. We clear leaves and sludge, flush every downpipe, check the flow and bag the debris. Single and double storey, homes and commercial. Quoted from photos. Call 0400 638 010.",
+    "layout": "mockup",
+    "headerPartId": "header-4",
+    "footerPartId": "footer-4",
+    "status": "draft",
+    "updatedAt": "2026-10-13T03:23:43.599Z",
+    "updatedBy": "derek",
+    "createdAt": "2026-10-13T03:23:43.599Z",
+    "createdBy": "derek"
   }
 ]
