@@ -2529,5 +2529,21 @@
     "createdAt": "2026-10-13T03:06:04.063Z",
     "createdBy": "derek",
     "isHome": false
+  },
+  {
+    "id": "pg-160",
+    "path": "/new-home",
+    "type": "page",
+    "title": "NEW HOME",
+    "seoTitle": "Exterior Cleaning Melbourne | Pressure Cleaning & Washing | Prime Exteriors",
+    "seoDescription": "Exterior cleaning across Melbourne. Pressure cleaning, house washing, window, gutter, roof and solar cleaning, stain removal and surface sealing for homes and commercial property. Fixed quotes, 5.0 rated. Call 0400 638 010.",
+    "layout": "mockup",
+    "headerPartId": "header-4",
+    "footerPartId": "footer-4",
+    "status": "draft",
+    "updatedAt": "2026-10-13T03:13:03.792Z",
+    "updatedBy": "derek",
+    "createdAt": "2026-10-13T03:13:03.792Z",
+    "createdBy": "derek"
   }
 ]
