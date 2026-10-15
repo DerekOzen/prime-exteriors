@@ -3396,7 +3396,7 @@
   {
     "id": "pg-204",
     "path": "/services/house-building-washing/facade-cleaning",
-    "type": "page",
+    "type": "service",
     "title": "Facade Cleaning Melbourne | Commercial and Multi Storey | Prime Exteriors",
     "seoTitle": "Facade Cleaning Melbourne | Commercial and Multi Storey | Prime Exteriors",
     "seoDescription": "Facade cleaning for Melbourne commercial and multi storey buildings. Precast, render, panel and composite elevations soft washed, with the access method and the documentation agreed before the first attendance.",
@@ -3406,7 +3406,7 @@
     "status": "draft",
     "createdAt": "2026-10-15T00:18:47.593Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-15T00:18:47.593Z",
+    "updatedAt": "2026-10-15T00:24:04.237Z",
     "updatedBy": "joshua"
   },
   {
