@@ -1923,7 +1923,7 @@
   {
     "id": "pg-121",
     "path": "/locations/vic",
-    "type": "page",
+    "type": "location",
     "title": "Exterior Cleaning in Victoria | What Melbourne Conditions Change | Prime Exteriors",
     "seoTitle": "Exterior Cleaning in Victoria | What Melbourne Conditions Change | Prime Exteriors",
     "seoDescription": "Prime Exteriors works across metropolitan Melbourne. What the Victorian climate, the local water and the local building stock change about exterior cleaning, across eighteen council areas.",
@@ -1933,7 +1933,7 @@
     "status": "draft",
     "createdAt": "2026-10-15T00:47:45.211Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-15T00:47:45.211Z",
+    "updatedAt": "2026-10-15T00:50:43.814Z",
     "updatedBy": "joshua"
   },
   {
@@ -1971,7 +1971,7 @@
   {
     "id": "pg-124",
     "path": "/locations/vic/window-cleaning-altona",
-    "type": "page",
+    "type": "location",
     "title": "Window cleaning Altona | Prime Exteriors",
     "seoTitle": "Window cleaning Altona | Prime Exteriors",
     "seoDescription": "Window cleaning in Altona, Hobsons Bay. Glass, tracks, sills and screens, inside and out, with second storey reached from the ground. Priced from photos.",
@@ -1981,7 +1981,7 @@
     "status": "draft",
     "createdAt": "2026-10-15T00:47:45.211Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-15T00:47:45.211Z",
+    "updatedAt": "2026-10-15T00:50:43.814Z",
     "updatedBy": "joshua"
   },
   {
