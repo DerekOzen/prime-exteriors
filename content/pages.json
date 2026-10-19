@@ -1917,8 +1917,9 @@
     "status": "published",
     "createdAt": "2026-10-19T23:15:37.217Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-19T23:48:07.691Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-10-19T23:48:41.668Z",
+    "updatedBy": "joshua",
+    "noindex": true
   },
   {
     "id": "pg-121",
