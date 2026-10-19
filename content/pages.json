@@ -739,7 +739,7 @@
   {
     "id": "pg-47",
     "path": "/services/stain-surface-restoration/gum-removal",
-    "type": "page",
+    "type": "service",
     "title": "Chewing Gum Removal Melbourne | Footpaths and Entries | Prime Exteriors",
     "seoTitle": "Chewing Gum Removal Melbourne | Footpaths and Entries | Prime Exteriors",
     "seoDescription": "Chewing gum removal from Melbourne footpaths, entries, shopfronts and paved walkways. Steam or freeze and lift, then the dark shadow underneath treated, which is the part most jobs leave behind.",
@@ -749,13 +749,13 @@
     "status": "draft",
     "createdAt": "2026-10-19T23:04:05.937Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-19T23:04:05.937Z",
+    "updatedAt": "2026-10-19T23:30:15.753Z",
     "updatedBy": "joshua"
   },
   {
     "id": "pg-48",
     "path": "/services/windows-gutters-roof-solar/gutter-cleaning",
-    "type": "page",
+    "type": "service",
     "title": "Gutter Cleaning Melbourne | Gutters, Valleys and Downpipes | Prime Exteriors",
     "seoTitle": "Gutter Cleaning Melbourne | Gutters, Valleys and Downpipes | Prime Exteriors",
     "seoDescription": "Gutter cleaning across Melbourne. Gutters, valleys and downpipes cleared by hand and flushed, with the downpipes checked to confirm they actually run, and photos of anything we find.",
@@ -765,7 +765,7 @@
     "status": "draft",
     "createdAt": "2026-10-19T23:04:05.937Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-19T23:04:05.937Z",
+    "updatedAt": "2026-10-19T23:30:15.753Z",
     "updatedBy": "joshua"
   },
   {
@@ -1347,7 +1347,7 @@
   {
     "id": "pg-85",
     "path": "/services/house-building-washing",
-    "type": "page",
+    "type": "service",
     "title": "House Washing Melbourne | Render and Exterior Wall Cleaning | Prime Exteriors",
     "seoTitle": "House Washing Melbourne | Render and Exterior Wall Cleaning | Prime Exteriors",
     "seoDescription": "House washing across Melbourne for render, cladding, weatherboard and brick. Low pressure soft washing with a treatment that kills mould and algae rather than moving it, so the wall stays clean.",
@@ -1357,7 +1357,7 @@
     "status": "draft",
     "createdAt": "2026-10-19T23:07:25.872Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-19T23:07:25.872Z",
+    "updatedAt": "2026-10-19T23:30:15.753Z",
     "updatedBy": "joshua"
   },
   {
@@ -1379,7 +1379,7 @@
   {
     "id": "pg-87",
     "path": "/commercial/medical-aged-care",
-    "type": "page",
+    "type": "service",
     "title": "Medical and Aged Care Exterior Cleaning Melbourne | Prime Exteriors",
     "seoTitle": "Medical and Aged Care Exterior Cleaning Melbourne | Prime Exteriors",
     "seoDescription": "Exterior cleaning for Melbourne medical practices and aged care facilities. Entries, paths, courtyards and ambulance bays, scheduled around residents and patients with falls risk treated as the priority.",
@@ -1389,13 +1389,13 @@
     "status": "draft",
     "createdAt": "2026-10-19T23:09:00.396Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-19T23:09:00.396Z",
+    "updatedAt": "2026-10-19T23:30:15.753Z",
     "updatedBy": "joshua"
   },
   {
     "id": "pg-88",
     "path": "/services/stain-surface-restoration/mortar-cement-residue-removal",
-    "type": "page",
+    "type": "service",
     "title": "Mortar and Cement Residue Removal Melbourne | Prime Exteriors",
     "seoTitle": "Mortar and Cement Residue Removal Melbourne | Prime Exteriors",
     "seoDescription": "Removing mortar smears, concrete slurry, render splatter and cement residue after a build, from brick, glass, concrete and paving across Melbourne. Acid strength tested first, because new concrete is still green.",
@@ -1405,13 +1405,13 @@
     "status": "draft",
     "createdAt": "2026-10-19T23:09:00.396Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-19T23:09:00.396Z",
+    "updatedAt": "2026-10-19T23:30:15.753Z",
     "updatedBy": "joshua"
   },
   {
     "id": "pg-89",
     "path": "/services/house-building-washing/mould-algae-moss-lichen-treatment",
-    "type": "page",
+    "type": "service",
     "title": "Mould, Algae, Moss and Lichen Treatment Melbourne | Prime Exteriors",
     "seoTitle": "Mould, Algae, Moss and Lichen Treatment Melbourne | Prime Exteriors",
     "seoDescription": "Treating the biological growth on Melbourne exteriors rather than washing it off. Mould, algae, moss and lichen on render, roofs, paving, decking and fencing, killed at the root so it does not return within the year.",
@@ -1421,13 +1421,13 @@
     "status": "draft",
     "createdAt": "2026-10-19T23:09:00.396Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-19T23:09:00.396Z",
+    "updatedAt": "2026-10-19T23:30:15.753Z",
     "updatedBy": "joshua"
   },
   {
     "id": "pg-90",
     "path": "/services/builders-handover-cleaning/new-build-exterior-cleaning",
-    "type": "page",
+    "type": "service",
     "title": "New Build Exterior Cleaning Melbourne | Handover Ready | Prime Exteriors",
     "seoTitle": "New Build Exterior Cleaning Melbourne | Handover Ready | Prime Exteriors",
     "seoDescription": "New build exterior cleaning across Melbourne. Facade, driveway, crossover, paths, alfresco, garage door and eaves taken from site condition to handover condition, with new concrete treated as the green surface it still is.",
@@ -1437,13 +1437,13 @@
     "status": "draft",
     "createdAt": "2026-10-19T23:09:00.396Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-19T23:09:00.396Z",
+    "updatedAt": "2026-10-19T23:30:15.753Z",
     "updatedBy": "joshua"
   },
   {
     "id": "pg-91",
     "path": "/services/stain-surface-restoration/oil-stain-removal",
-    "type": "page",
+    "type": "service",
     "title": "Oil Stain Removal Melbourne | Driveways and Garage Floors | Prime Exteriors",
     "seoTitle": "Oil Stain Removal Melbourne | Driveways and Garage Floors | Prime Exteriors",
     "seoDescription": "Removing engine oil, grease and transmission fluid from Melbourne concrete, aggregate and paving. Degreaser and a poultice that draws the oil back up, with a free test patch and a clear expectation before you commit.",
@@ -1453,7 +1453,7 @@
     "status": "draft",
     "createdAt": "2026-10-19T23:09:00.396Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-19T23:09:00.396Z",
+    "updatedAt": "2026-10-19T23:30:15.753Z",
     "updatedBy": "joshua"
   },
   {
@@ -1475,7 +1475,7 @@
   {
     "id": "pg-93",
     "path": "/services/pressure-surface-cleaning/outdoor-tile-cleaning",
-    "type": "page",
+    "type": "service",
     "title": "Outdoor Tile Cleaning Melbourne | Porcelain and Travertine | Prime Exteriors",
     "seoTitle": "Outdoor Tile Cleaning Melbourne | Porcelain and Travertine | Prime Exteriors",
     "seoDescription": "Outdoor tile cleaning across Melbourne for porcelain, travertine, limestone and glazed tile. Low pressure because the glaze sets the limit, with the grout treated separately from the tile.",
@@ -1485,13 +1485,13 @@
     "status": "draft",
     "createdAt": "2026-10-19T23:09:00.396Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-19T23:09:00.396Z",
+    "updatedAt": "2026-10-19T23:30:15.753Z",
     "updatedBy": "joshua"
   },
   {
     "id": "pg-94",
     "path": "/services/stain-surface-restoration/paint-overspray-removal",
-    "type": "page",
+    "type": "service",
     "title": "Paint and Overspray Removal Melbourne | Prime Exteriors",
     "seoTitle": "Paint and Overspray Removal Melbourne | Prime Exteriors",
     "seoDescription": "Removing paint splatter and spray drift from Melbourne glass, concrete, brick, render and Colorbond. The paint type and the surface together decide what is possible, and both are tested before anything is applied.",
@@ -1501,13 +1501,13 @@
     "status": "draft",
     "createdAt": "2026-10-19T23:09:00.396Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-19T23:09:00.396Z",
+    "updatedAt": "2026-10-19T23:30:15.753Z",
     "updatedBy": "joshua"
   },
   {
     "id": "pg-95",
     "path": "/services/pressure-surface-cleaning/path-hard-surface-cleaning",
-    "type": "page",
+    "type": "service",
     "title": "Path and Hard Surface Cleaning Melbourne | Prime Exteriors",
     "seoTitle": "Path and Hard Surface Cleaning Melbourne | Prime Exteriors",
     "seoDescription": "Cleaning the hard surfaces that are easy to overlook: footpaths, crossovers, side access, bin areas, steps, service yards and letterbox surrounds across Melbourne. Inexpensive as part of a visit, and usually the worst surfaces on a property.",
@@ -1517,13 +1517,13 @@
     "status": "draft",
     "createdAt": "2026-10-19T23:09:00.396Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-19T23:09:00.396Z",
+    "updatedAt": "2026-10-19T23:30:15.753Z",
     "updatedBy": "joshua"
   },
   {
     "id": "pg-96",
     "path": "/services/sealing-surface-protection/paver-sealing-re-sanding",
-    "type": "page",
+    "type": "service",
     "title": "Paver Sealing and Re-Sanding Melbourne | Prime Exteriors",
     "seoTitle": "Paver Sealing and Re-Sanding Melbourne | Prime Exteriors",
     "seoDescription": "Paver sealing and joint re-sanding across Melbourne. Kiln dried or polymeric sand, then a sealer that locks the joint and protects the paver, so the sand stops washing out and the weeds stop coming back.",
@@ -1533,7 +1533,7 @@
     "status": "draft",
     "createdAt": "2026-10-19T23:09:00.396Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-19T23:09:00.396Z",
+    "updatedAt": "2026-10-19T23:30:15.753Z",
     "updatedBy": "joshua"
   },
   {
