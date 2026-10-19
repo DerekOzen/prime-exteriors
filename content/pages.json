@@ -771,7 +771,7 @@
   {
     "id": "pg-49",
     "path": "/locations/vic/gutter-cleaning-altona",
-    "type": "page",
+    "type": "location",
     "title": "Gutter cleaning Altona | Prime Exteriors",
     "seoTitle": "Gutter cleaning Altona | Prime Exteriors",
     "seoDescription": "Gutter cleaning in Altona, Hobsons Bay. Gutters, valleys and downpipes cleared, with the debris taken away, priced per property from photos. Melbourne wide from a Dallas 3047 base.",
@@ -781,13 +781,13 @@
     "status": "draft",
     "createdAt": "2026-10-19T23:04:05.937Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-19T23:04:05.937Z",
+    "updatedAt": "2026-10-19T23:29:19.027Z",
     "updatedBy": "joshua"
   },
   {
     "id": "pg-50",
     "path": "/locations/vic/gutter-cleaning-box-hill",
-    "type": "page",
+    "type": "location",
     "title": "Gutter cleaning Box Hill | Prime Exteriors",
     "seoTitle": "Gutter cleaning Box Hill | Prime Exteriors",
     "seoDescription": "Gutter cleaning in Box Hill, Whitehorse. Gutters, valleys and downpipes cleared, with the debris taken away, priced per property from photos. Melbourne wide from a Dallas 3047 base.",
@@ -797,13 +797,13 @@
     "status": "draft",
     "createdAt": "2026-10-19T23:04:05.937Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-19T23:04:05.937Z",
+    "updatedAt": "2026-10-19T23:29:19.027Z",
     "updatedBy": "joshua"
   },
   {
     "id": "pg-51",
     "path": "/locations/vic/gutter-cleaning-brunswick",
-    "type": "page",
+    "type": "location",
     "title": "Gutter cleaning Brunswick | Prime Exteriors",
     "seoTitle": "Gutter cleaning Brunswick | Prime Exteriors",
     "seoDescription": "Gutter cleaning in Brunswick, Merri-bek. Gutters, valleys and downpipes cleared, with the debris taken away, priced per property from photos. Melbourne wide from a Dallas 3047 base.",
@@ -813,13 +813,13 @@
     "status": "draft",
     "createdAt": "2026-10-19T23:04:05.937Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-19T23:04:05.937Z",
+    "updatedAt": "2026-10-19T23:29:19.027Z",
     "updatedBy": "joshua"
   },
   {
     "id": "pg-52",
     "path": "/locations/vic/gutter-cleaning-bundoora",
-    "type": "page",
+    "type": "location",
     "title": "Gutter cleaning Bundoora | Prime Exteriors",
     "seoTitle": "Gutter cleaning Bundoora | Prime Exteriors",
     "seoDescription": "Gutter cleaning in Bundoora, Banyule. Gutters, valleys and downpipes cleared, with the debris taken away, priced per property from photos. Melbourne wide from a Dallas 3047 base.",
@@ -829,13 +829,13 @@
     "status": "draft",
     "createdAt": "2026-10-19T23:04:05.937Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-19T23:04:05.937Z",
+    "updatedAt": "2026-10-19T23:29:19.027Z",
     "updatedBy": "joshua"
   },
   {
     "id": "pg-53",
     "path": "/locations/vic/gutter-cleaning-camberwell",
-    "type": "page",
+    "type": "location",
     "title": "Gutter cleaning Camberwell | Prime Exteriors",
     "seoTitle": "Gutter cleaning Camberwell | Prime Exteriors",
     "seoDescription": "Gutter cleaning in Camberwell, Boroondara. Gutters, valleys and downpipes cleared, with the debris taken away, priced per property from photos. Melbourne wide from a Dallas 3047 base.",
@@ -845,13 +845,13 @@
     "status": "draft",
     "createdAt": "2026-10-19T23:04:05.937Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-19T23:04:05.937Z",
+    "updatedAt": "2026-10-19T23:29:19.027Z",
     "updatedBy": "joshua"
   },
   {
     "id": "pg-54",
     "path": "/locations/vic/gutter-cleaning-caroline-springs",
-    "type": "page",
+    "type": "location",
     "title": "Gutter cleaning Caroline Springs | Prime Exteriors",
     "seoTitle": "Gutter cleaning Caroline Springs | Prime Exteriors",
     "seoDescription": "Gutter cleaning in Caroline Springs, Melton. Gutters, valleys and downpipes cleared, with the debris taken away, priced per property from photos. Melbourne wide from a Dallas 3047 base.",
@@ -861,13 +861,13 @@
     "status": "draft",
     "createdAt": "2026-10-19T23:04:05.937Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-19T23:04:05.937Z",
+    "updatedAt": "2026-10-19T23:29:19.027Z",
     "updatedBy": "joshua"
   },
   {
     "id": "pg-55",
     "path": "/locations/vic/gutter-cleaning-coburg",
-    "type": "page",
+    "type": "location",
     "title": "Gutter cleaning Coburg | Prime Exteriors",
     "seoTitle": "Gutter cleaning Coburg | Prime Exteriors",
     "seoDescription": "Gutter cleaning in Coburg, Merri-bek. Gutters, valleys and downpipes cleared, with the debris taken away, priced per property from photos. Melbourne wide from a Dallas 3047 base.",
@@ -877,13 +877,13 @@
     "status": "draft",
     "createdAt": "2026-10-19T23:04:05.937Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-19T23:04:05.937Z",
+    "updatedAt": "2026-10-19T23:29:19.027Z",
     "updatedBy": "joshua"
   },
   {
     "id": "pg-56",
     "path": "/locations/vic/gutter-cleaning-craigieburn",
-    "type": "page",
+    "type": "location",
     "title": "Gutter cleaning Craigieburn | Prime Exteriors",
     "seoTitle": "Gutter cleaning Craigieburn | Prime Exteriors",
     "seoDescription": "Gutter cleaning in Craigieburn, Hume. Gutters, valleys and downpipes cleared, with the debris taken away, priced per property from photos. Melbourne wide from a Dallas 3047 base.",
@@ -893,7 +893,7 @@
     "status": "draft",
     "createdAt": "2026-10-19T23:04:05.937Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-19T23:04:05.937Z",
+    "updatedAt": "2026-10-19T23:29:19.027Z",
     "updatedBy": "joshua"
   },
   {
@@ -1219,7 +1219,7 @@
   {
     "id": "pg-77",
     "path": "/locations/vic/gutter-cleaning-reservoir",
-    "type": "page",
+    "type": "location",
     "title": "Gutter cleaning Reservoir | Prime Exteriors",
     "seoTitle": "Gutter cleaning Reservoir | Prime Exteriors",
     "seoDescription": "Gutter cleaning in Reservoir, Darebin. Gutters, valleys and downpipes cleared, with the debris taken away, priced per property from photos. Melbourne wide from a Dallas 3047 base.",
@@ -1229,13 +1229,13 @@
     "status": "draft",
     "createdAt": "2026-10-19T23:07:25.872Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-19T23:07:25.872Z",
+    "updatedAt": "2026-10-19T23:29:19.027Z",
     "updatedBy": "joshua"
   },
   {
     "id": "pg-78",
     "path": "/locations/vic/gutter-cleaning-richmond",
-    "type": "page",
+    "type": "location",
     "title": "Gutter cleaning Richmond | Prime Exteriors",
     "seoTitle": "Gutter cleaning Richmond | Prime Exteriors",
     "seoDescription": "Gutter cleaning in Richmond, Yarra. Gutters, valleys and downpipes cleared, with the debris taken away, priced per property from photos. Melbourne wide from a Dallas 3047 base.",
@@ -1245,13 +1245,13 @@
     "status": "draft",
     "createdAt": "2026-10-19T23:07:25.872Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-19T23:07:25.872Z",
+    "updatedAt": "2026-10-19T23:29:19.027Z",
     "updatedBy": "joshua"
   },
   {
     "id": "pg-79",
     "path": "/locations/vic/gutter-cleaning-sunbury",
-    "type": "page",
+    "type": "location",
     "title": "Gutter cleaning Sunbury | Prime Exteriors",
     "seoTitle": "Gutter cleaning Sunbury | Prime Exteriors",
     "seoDescription": "Gutter cleaning in Sunbury, Hume. Gutters, valleys and downpipes cleared, with the debris taken away, priced per property from photos. Melbourne wide from a Dallas 3047 base.",
@@ -1261,13 +1261,13 @@
     "status": "draft",
     "createdAt": "2026-10-19T23:07:25.872Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-19T23:07:25.872Z",
+    "updatedAt": "2026-10-19T23:29:19.027Z",
     "updatedBy": "joshua"
   },
   {
     "id": "pg-80",
     "path": "/locations/vic/gutter-cleaning-taylors-lakes",
-    "type": "page",
+    "type": "location",
     "title": "Gutter cleaning Taylors Lakes | Prime Exteriors",
     "seoTitle": "Gutter cleaning Taylors Lakes | Prime Exteriors",
     "seoDescription": "Gutter cleaning in Taylors Lakes, Brimbank. Gutters, valleys and downpipes cleared, with the debris taken away, priced per property from photos. Melbourne wide from a Dallas 3047 base.",
@@ -1277,13 +1277,13 @@
     "status": "draft",
     "createdAt": "2026-10-19T23:07:25.872Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-19T23:07:25.872Z",
+    "updatedAt": "2026-10-19T23:29:19.027Z",
     "updatedBy": "joshua"
   },
   {
     "id": "pg-81",
     "path": "/locations/vic/gutter-cleaning-templestowe",
-    "type": "page",
+    "type": "location",
     "title": "Gutter cleaning Templestowe | Prime Exteriors",
     "seoTitle": "Gutter cleaning Templestowe | Prime Exteriors",
     "seoDescription": "Gutter cleaning in Templestowe, Manningham. Gutters, valleys and downpipes cleared, with the debris taken away, priced per property from photos. Melbourne wide from a Dallas 3047 base.",
@@ -1293,13 +1293,13 @@
     "status": "draft",
     "createdAt": "2026-10-19T23:07:25.872Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-19T23:07:25.872Z",
+    "updatedAt": "2026-10-19T23:29:19.027Z",
     "updatedBy": "joshua"
   },
   {
     "id": "pg-82",
     "path": "/locations/vic/gutter-cleaning-thomastown",
-    "type": "page",
+    "type": "location",
     "title": "Gutter cleaning Thomastown | Prime Exteriors",
     "seoTitle": "Gutter cleaning Thomastown | Prime Exteriors",
     "seoDescription": "Gutter cleaning in Thomastown, Whittlesea. Gutters, valleys and downpipes cleared, with the debris taken away, priced per property from photos. Melbourne wide from a Dallas 3047 base.",
@@ -1309,13 +1309,13 @@
     "status": "draft",
     "createdAt": "2026-10-19T23:07:25.872Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-19T23:07:25.872Z",
+    "updatedAt": "2026-10-19T23:29:19.027Z",
     "updatedBy": "joshua"
   },
   {
     "id": "pg-83",
     "path": "/locations/vic/gutter-cleaning-thornbury",
-    "type": "page",
+    "type": "location",
     "title": "Gutter cleaning Thornbury | Prime Exteriors",
     "seoTitle": "Gutter cleaning Thornbury | Prime Exteriors",
     "seoDescription": "Gutter cleaning in Thornbury, Darebin. Gutters, valleys and downpipes cleared, with the debris taken away, priced per property from photos. Melbourne wide from a Dallas 3047 base.",
@@ -1325,13 +1325,13 @@
     "status": "draft",
     "createdAt": "2026-10-19T23:07:25.872Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-19T23:07:25.872Z",
+    "updatedAt": "2026-10-19T23:29:19.027Z",
     "updatedBy": "joshua"
   },
   {
     "id": "pg-84",
     "path": "/services/stain-surface-restoration/hard-water-mineral-stain-removal",
-    "type": "page",
+    "type": "location",
     "title": "Hard Water and Mineral Stain Removal Melbourne | Prime Exteriors",
     "seoTitle": "Hard Water and Mineral Stain Removal Melbourne | Prime Exteriors",
     "seoDescription": "Removing calcium, lime and mineral staining from Melbourne glass, stone, render and concrete. Treatable if it has not etched, and the sprinkler is almost always the cause.",
@@ -1341,7 +1341,7 @@
     "status": "draft",
     "createdAt": "2026-10-19T23:07:25.872Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-19T23:07:25.872Z",
+    "updatedAt": "2026-10-19T23:29:19.027Z",
     "updatedBy": "joshua"
   },
   {
@@ -1363,7 +1363,7 @@
   {
     "id": "pg-86",
     "path": "/locations",
-    "type": "page",
+    "type": "location",
     "title": "Service Areas | Exterior Cleaning Across Melbourne | Prime Exteriors",
     "seoTitle": "Service Areas | Exterior Cleaning Across Melbourne | Prime Exteriors",
     "seoDescription": "Where Prime Exteriors works. Council areas and suburbs across Melbourne from a Dallas 3047 base, strongest through the northern corridor, with coverage east, west and inner city.",
@@ -1373,7 +1373,7 @@
     "status": "draft",
     "createdAt": "2026-10-19T23:07:25.872Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-19T23:07:25.872Z",
+    "updatedAt": "2026-10-19T23:29:19.027Z",
     "updatedBy": "joshua"
   },
   {
