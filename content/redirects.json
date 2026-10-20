@@ -1,5 +1,125 @@
 [
   {
+    "from": "/services/windows-gutters-roof-solar",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-20T00:47:44.483Z"
+  },
+  {
+    "from": "/services/windows-gutters-roof-solar/window-cleaning",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-20T00:47:44.483Z"
+  },
+  {
+    "from": "/services/house-building-washing/soft-washing",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-20T00:47:44.483Z"
+  },
+  {
+    "from": "/services/sealing-surface-protection",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-20T00:47:44.483Z"
+  },
+  {
+    "from": "/services/windows-gutters-roof-solar/roof-cleaning",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-20T00:47:44.483Z"
+  },
+  {
+    "from": "/services/sealing-surface-protection/protective-coatings",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-20T00:47:44.483Z"
+  },
+  {
+    "from": "/services/pressure-surface-cleaning/paving-patio-cleaning",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-20T00:47:44.483Z"
+  },
+  {
+    "from": "/services/builders-handover-cleaning/new-build-exterior-cleaning",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-20T00:47:44.483Z"
+  },
+  {
+    "from": "/services/house-building-washing/mould-algae-moss-lichen-treatment",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-20T00:47:44.483Z"
+  },
+  {
+    "from": "/services/stain-surface-restoration/mortar-cement-residue-removal",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-20T00:47:44.483Z"
+  },
+  {
+    "from": "/locations/vic/gutter-cleaning-thomastown",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-20T00:47:44.483Z"
+  },
+  {
+    "from": "/locations/vic/gutter-cleaning-reservoir",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-20T00:47:44.483Z"
+  },
+  {
+    "from": "/locations/vic/gutter-cleaning-mernda",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-20T00:47:44.483Z"
+  },
+  {
+    "from": "/locations/vic/gutter-cleaning-macleod",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-20T00:47:44.483Z"
+  },
+  {
+    "from": "/services/windows-gutters-roof-solar/gutter-cleaning",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-20T00:47:44.483Z"
+  },
+  {
+    "from": "/services/stain-surface-restoration/gum-removal",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-20T00:47:44.483Z"
+  },
+  {
+    "from": "/services/sealing-surface-protection/epoxy-flooring-coatings",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-20T00:47:44.483Z"
+  },
+  {
+    "from": "/services/stain-surface-restoration/efflorescence-removal",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-20T00:47:44.483Z"
+  },
+  {
+    "from": "/services/sealing-surface-protection/concrete-sealing",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-20T00:47:44.483Z"
+  },
+  {
+    "from": "/services/builders-handover-cleaning",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-20T00:47:44.483Z"
+  },
+  {
     "from": "/service/driveway-cleaning",
     "to": "/services/pressure-surface-cleaning/driveway-cleaning",
     "code": 301,
