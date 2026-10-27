@@ -1,5 +1,695 @@
 [
   {
+    "from": "/locations/vic/window-cleaning-templestowe",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-27T02:58:16.646Z"
+  },
+  {
+    "from": "/locations/vic/window-cleaning-sunbury",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-27T02:58:16.646Z"
+  },
+  {
+    "from": "/locations/vic/window-cleaning-preston",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-27T02:58:16.646Z"
+  },
+  {
+    "from": "/locations/vic/window-cleaning-northcote",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-27T02:58:16.646Z"
+  },
+  {
+    "from": "/locations/vic/window-cleaning-ivanhoe",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-27T02:58:16.646Z"
+  },
+  {
+    "from": "/locations/vic/window-cleaning-greensborough",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-27T02:58:16.646Z"
+  },
+  {
+    "from": "/locations/vic/window-cleaning-essendon",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-27T02:58:16.646Z"
+  },
+  {
+    "from": "/locations/vic/window-cleaning-epping",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-27T02:58:16.646Z"
+  },
+  {
+    "from": "/locations/vic/window-cleaning-eltham",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-27T02:58:16.646Z"
+  },
+  {
+    "from": "/locations/vic/window-cleaning-doncaster",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-27T02:58:16.646Z"
+  },
+  {
+    "from": "/locations/vic/window-cleaning-brunswick",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-27T02:58:16.646Z"
+  },
+  {
+    "from": "/locations/vic/window-cleaning-altona",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-27T02:58:16.646Z"
+  },
+  {
+    "from": "/commercial/warehouses-factories",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-27T02:58:16.646Z"
+  },
+  {
+    "from": "/locations/vic",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-27T02:58:16.646Z"
+  },
+  {
+    "from": "/thank-you",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-27T02:58:16.646Z"
+  },
+  {
+    "from": "/terms-and-conditions",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-27T02:58:16.646Z"
+  },
+  {
+    "from": "/commercial/tennis-court-sports-surface-cleaning",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-27T02:58:16.646Z"
+  },
+  {
+    "from": "/services/sealing-surface-protection/stone-bluestone-sealing",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-27T02:58:16.646Z"
+  },
+  {
+    "from": "/services/stain-surface-restoration",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-27T02:58:16.646Z"
+  },
+  {
+    "from": "/services/windows-gutters-roof-solar/solar-panel-cleaning",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-27T02:58:16.646Z"
+  },
+  {
+    "from": "/commercial/sign-cleaning",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-27T02:58:16.646Z"
+  },
+  {
+    "from": "/services",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-27T02:58:16.646Z"
+  },
+  {
+    "from": "/commercial/schools-childcare",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-27T02:58:16.646Z"
+  },
+  {
+    "from": "/commercial/scheduled-exterior-maintenance",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-27T02:58:16.646Z"
+  },
+  {
+    "from": "/services/stain-surface-restoration/rust-stain-removal",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-27T02:58:16.646Z"
+  },
+  {
+    "from": "/reviews",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-27T02:58:16.646Z"
+  },
+  {
+    "from": "/commercial/retail-hospitality",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-27T02:58:16.646Z"
+  },
+  {
+    "from": "/services/house-building-washing/render-cleaning",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-27T02:58:16.646Z"
+  },
+  {
+    "from": "/commercial/real-estate-property-managers",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-27T02:58:16.646Z"
+  },
+  {
+    "from": "/property-presentation",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-27T02:58:16.646Z"
+  },
+  {
+    "from": "/privacy-policy",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-27T02:58:16.646Z"
+  },
+  {
+    "from": "/services/pressure-surface-cleaning",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-27T02:58:16.646Z"
+  },
+  {
+    "from": "/services/pressure-surface-cleaning/pool-surround-cleaning",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-27T02:58:16.646Z"
+  },
+  {
+    "from": "/services/sealing-surface-protection/paver-sealing-re-sanding",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-27T02:58:16.646Z"
+  },
+  {
+    "from": "/services/pressure-surface-cleaning/path-hard-surface-cleaning",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-27T02:58:16.646Z"
+  },
+  {
+    "from": "/services/stain-surface-restoration/paint-overspray-removal",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-27T02:58:16.646Z"
+  },
+  {
+    "from": "/services/pressure-surface-cleaning/outdoor-tile-cleaning",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-27T02:58:16.646Z"
+  },
+  {
+    "from": "/our-work",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-27T02:58:16.646Z"
+  },
+  {
+    "from": "/services/stain-surface-restoration/oil-stain-removal",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-27T02:58:16.646Z"
+  },
+  {
+    "from": "/commercial/medical-aged-care",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-27T02:58:16.646Z"
+  },
+  {
+    "from": "/locations",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-27T02:58:16.646Z"
+  },
+  {
+    "from": "/services/house-building-washing",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-27T02:58:16.646Z"
+  },
+  {
+    "from": "/services/stain-surface-restoration/hard-water-mineral-stain-removal",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-27T02:58:16.646Z"
+  },
+  {
+    "from": "/locations/vic/gutter-cleaning-thornbury",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-27T02:58:16.646Z"
+  },
+  {
+    "from": "/locations/vic/gutter-cleaning-templestowe",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-27T02:58:16.646Z"
+  },
+  {
+    "from": "/locations/vic/gutter-cleaning-taylors-lakes",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-27T02:58:16.646Z"
+  },
+  {
+    "from": "/locations/vic/gutter-cleaning-sunbury",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-27T02:58:16.646Z"
+  },
+  {
+    "from": "/locations/vic/gutter-cleaning-richmond",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-27T02:58:16.646Z"
+  },
+  {
+    "from": "/locations/vic/gutter-cleaning-preston",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-27T02:58:16.646Z"
+  },
+  {
+    "from": "/locations/vic/gutter-cleaning-northcote",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-27T02:58:16.646Z"
+  },
+  {
+    "from": "/locations/vic/gutter-cleaning-montmorency",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-27T02:58:16.646Z"
+  },
+  {
+    "from": "/locations/vic/gutter-cleaning-mill-park",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-27T02:58:16.646Z"
+  },
+  {
+    "from": "/locations/vic/gutter-cleaning-melton",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-27T02:58:16.646Z"
+  },
+  {
+    "from": "/locations/vic/gutter-cleaning-kew",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-27T02:58:16.646Z"
+  },
+  {
+    "from": "/locations/vic/gutter-cleaning-ivanhoe",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-27T02:58:16.646Z"
+  },
+  {
+    "from": "/locations/vic/gutter-cleaning-heidelberg",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-27T02:58:16.646Z"
+  },
+  {
+    "from": "/locations/vic/gutter-cleaning-hawthorn",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-27T02:58:16.646Z"
+  },
+  {
+    "from": "/locations/vic/gutter-cleaning-greenvale",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-27T02:58:16.646Z"
+  },
+  {
+    "from": "/locations/vic/gutter-cleaning-greensborough",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-27T02:58:16.646Z"
+  },
+  {
+    "from": "/locations/vic/gutter-cleaning-glenroy",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-27T02:58:16.646Z"
+  },
+  {
+    "from": "/locations/vic/gutter-cleaning-essendon",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-27T02:58:16.646Z"
+  },
+  {
+    "from": "/locations/vic/gutter-cleaning-epping",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-27T02:58:16.646Z"
+  },
+  {
+    "from": "/locations/vic/gutter-cleaning-eltham",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-27T02:58:16.646Z"
+  },
+  {
+    "from": "/locations/vic/gutter-cleaning-doreen",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-27T02:58:16.646Z"
+  },
+  {
+    "from": "/locations/vic/gutter-cleaning-doncaster",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-27T02:58:16.646Z"
+  },
+  {
+    "from": "/locations/vic/gutter-cleaning-diamond-creek",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-27T02:58:16.646Z"
+  },
+  {
+    "from": "/locations/vic/gutter-cleaning-craigieburn",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-27T02:58:16.646Z"
+  },
+  {
+    "from": "/locations/vic/gutter-cleaning-coburg",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-27T02:58:16.646Z"
+  },
+  {
+    "from": "/locations/vic/gutter-cleaning-caroline-springs",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-27T02:58:16.646Z"
+  },
+  {
+    "from": "/locations/vic/gutter-cleaning-camberwell",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-27T02:58:16.646Z"
+  },
+  {
+    "from": "/locations/vic/gutter-cleaning-bundoora",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-27T02:58:16.646Z"
+  },
+  {
+    "from": "/locations/vic/gutter-cleaning-brunswick",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-27T02:58:16.646Z"
+  },
+  {
+    "from": "/locations/vic/gutter-cleaning-box-hill",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-27T02:58:16.646Z"
+  },
+  {
+    "from": "/locations/vic/gutter-cleaning-altona",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-27T02:58:16.646Z"
+  },
+  {
+    "from": "/services/windows-gutters-roof-solar/glass-balustrade-pool-glass-cleaning",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-27T02:58:16.646Z"
+  },
+  {
+    "from": "/services/pressure-surface-cleaning/fence-cleaning",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-27T02:58:16.646Z"
+  },
+  {
+    "from": "/commercial/factory-industrial",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-27T02:58:16.646Z"
+  },
+  {
+    "from": "/services/house-building-washing/facade-cleaning",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-27T02:58:16.646Z"
+  },
+  {
+    "from": "/locations/vic/exterior-cleaning-yarra",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-27T02:58:16.646Z"
+  },
+  {
+    "from": "/locations/vic/exterior-cleaning-whittlesea",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-27T02:58:16.646Z"
+  },
+  {
+    "from": "/locations/vic/exterior-cleaning-whitehorse",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-27T02:58:16.646Z"
+  },
+  {
+    "from": "/locations/vic/exterior-cleaning-stonnington",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-27T02:58:16.646Z"
+  },
+  {
+    "from": "/locations/vic/exterior-cleaning-port-phillip",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-27T02:58:16.646Z"
+  },
+  {
+    "from": "/locations/vic/exterior-cleaning-nillumbik",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-27T02:58:16.646Z"
+  },
+  {
+    "from": "/locations/vic/exterior-cleaning-moonee-valley",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-27T02:58:16.646Z"
+  },
+  {
+    "from": "/locations/vic/exterior-cleaning-merri-bek",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-27T02:58:16.646Z"
+  },
+  {
+    "from": "/locations/vic/exterior-cleaning-melton",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-27T02:58:16.646Z"
+  },
+  {
+    "from": "/locations/vic/exterior-cleaning-melbourne-cbd",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-27T02:58:16.646Z"
+  },
+  {
+    "from": "/locations/vic/exterior-cleaning-maribyrnong",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-27T02:58:16.646Z"
+  },
+  {
+    "from": "/locations/vic/exterior-cleaning-manningham",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-27T02:58:16.646Z"
+  },
+  {
+    "from": "/locations/vic/exterior-cleaning-hume",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-27T02:58:16.646Z"
+  },
+  {
+    "from": "/locations/vic/exterior-cleaning-hobsons-bay",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-27T02:58:16.646Z"
+  },
+  {
+    "from": "/locations/vic/exterior-cleaning-darebin",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-27T02:58:16.646Z"
+  },
+  {
+    "from": "/locations/vic/exterior-cleaning-brimbank",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-27T02:58:16.646Z"
+  },
+  {
+    "from": "/locations/vic/exterior-cleaning-boroondara",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-27T02:58:16.646Z"
+  },
+  {
+    "from": "/locations/vic/exterior-cleaning-banyule",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-27T02:58:16.646Z"
+  },
+  {
+    "from": "/services/sealing-surface-protection/exposed-aggregate-sealing",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-27T02:58:16.646Z"
+  },
+  {
+    "from": "/services/pressure-surface-cleaning/exposed-aggregate-cleaning",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-27T02:58:16.646Z"
+  },
+  {
+    "from": "/services/sealing-surface-protection/driveway-sealing",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-27T02:58:16.646Z"
+  },
+  {
+    "from": "/services/pressure-surface-cleaning/driveway-cleaning",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-27T02:58:16.646Z"
+  },
+  {
+    "from": "/services/pressure-surface-cleaning/deck-timber-cleaning",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-27T02:58:16.646Z"
+  },
+  {
+    "from": "/contact",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-27T02:58:16.646Z"
+  },
+  {
+    "from": "/services/sealing-surface-protection/concrete-colour-sealing",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-27T02:58:16.646Z"
+  },
+  {
+    "from": "/services/pressure-surface-cleaning/concrete-cleaning",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-27T02:58:16.646Z"
+  },
+  {
+    "from": "/services/windows-gutters-roof-solar/commercial-window-cleaning",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-27T02:58:16.646Z"
+  },
+  {
+    "from": "/commercial/commercial-building-washing",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-27T02:58:16.646Z"
+  },
+  {
+    "from": "/commercial",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-27T02:58:16.646Z"
+  },
+  {
+    "from": "/services/house-building-washing/cladding-weatherboard-cleaning",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-27T02:58:16.646Z"
+  },
+  {
+    "from": "/commercial/car-parks-hardstands",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-27T02:58:16.646Z"
+  },
+  {
+    "from": "/services/builders-handover-cleaning/builders-window-cleaning",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-27T02:58:16.646Z"
+  },
+  {
+    "from": "/commercial/builders-developers",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-27T02:58:16.646Z"
+  },
+  {
+    "from": "/commercial/body-corporate-strata",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-27T02:58:16.646Z"
+  },
+  {
+    "from": "/services/windows-gutters-roof-solar/awning-pergola-cleaning",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-27T02:58:16.646Z"
+  },
+  {
+    "from": "/services/sealing-surface-protection/anti-slip-sealing",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-27T02:58:16.646Z"
+  },
+  {
+    "from": "/about",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-27T02:58:16.646Z"
+  },
+  {
     "from": "/services/windows-gutters-roof-solar",
     "to": "/",
     "code": 301,
