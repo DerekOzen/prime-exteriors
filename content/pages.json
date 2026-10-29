@@ -84,7 +84,7 @@
   {
     "id": "pg-6",
     "path": "/commercial/body-corporate-strata",
-    "type": "service",
+    "type": "industry",
     "title": "Body Corporate and Strata Exterior Cleaning Melbourne | Prime Exteriors",
     "seoTitle": "Body Corporate and Strata Exterior Cleaning Melbourne | Prime Exteriors",
     "seoDescription": "Exterior cleaning of common property for Melbourne owners corporations and strata managers. Shared driveways, paths, bin areas, entry glazing and letterboxes, as one scope with one invoice and a record for the committee.",
@@ -94,13 +94,13 @@
     "status": "published",
     "createdAt": "2026-10-28T23:53:10.618Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-28T23:57:10.873Z",
+    "updatedAt": "2026-10-29T00:29:59.342Z",
     "updatedBy": "joshua"
   },
   {
     "id": "pg-7",
     "path": "/commercial/builders-developers",
-    "type": "service",
+    "type": "industry",
     "title": "Exterior Cleaning for Builders and Developers Melbourne | Prime Exteriors",
     "seoTitle": "Exterior Cleaning for Builders and Developers Melbourne | Prime Exteriors",
     "seoDescription": "Exterior cleaning for Melbourne builders and developers. Per-lot rates, scheduling against your handover programme, fast defect turnaround and the site documentation your contracts require.",
@@ -110,7 +110,7 @@
     "status": "published",
     "createdAt": "2026-10-28T23:53:10.618Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-28T23:57:10.873Z",
+    "updatedAt": "2026-10-29T00:29:59.342Z",
     "updatedBy": "joshua"
   },
   {
@@ -148,7 +148,7 @@
   {
     "id": "pg-10",
     "path": "/commercial/car-parks-hardstands",
-    "type": "service",
+    "type": "industry",
     "title": "Car Park and Hardstand Cleaning Melbourne | Prime Exteriors",
     "seoTitle": "Car Park and Hardstand Cleaning Melbourne | Prime Exteriors",
     "seoDescription": "Car park and hardstand cleaning across Melbourne. Oil, rubber and biological growth off large concrete and asphalt areas, worked in sections so the site stays open, or overnight where it can close.",
@@ -158,7 +158,7 @@
     "status": "published",
     "createdAt": "2026-10-28T23:53:10.618Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-28T23:57:10.873Z",
+    "updatedAt": "2026-10-29T00:29:59.342Z",
     "updatedBy": "joshua"
   },
   {
@@ -180,7 +180,7 @@
   {
     "id": "pg-12",
     "path": "/commercial",
-    "type": "service",
+    "type": "industry",
     "title": "Commercial Exterior Cleaning Melbourne | Prime Exteriors",
     "seoTitle": "Commercial Exterior Cleaning Melbourne | Prime Exteriors",
     "seoDescription": "Commercial exterior cleaning across Melbourne: shopfronts, glazing, car parks, hardstand, warehouses and body corporate common areas. Scheduled around trading hours and repeated on a cycle rather than approved job by job.",
@@ -190,13 +190,13 @@
     "status": "published",
     "createdAt": "2026-10-28T23:53:10.618Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-28T23:57:10.873Z",
+    "updatedAt": "2026-10-29T00:29:59.342Z",
     "updatedBy": "joshua"
   },
   {
     "id": "pg-13",
     "path": "/commercial/commercial-building-washing",
-    "type": "service",
+    "type": "industry",
     "title": "Commercial Building Washing Melbourne | Low Rise Exteriors | Prime Exteriors",
     "seoTitle": "Commercial Building Washing Melbourne | Low Rise Exteriors | Prime Exteriors",
     "seoDescription": "Commercial building washing across Melbourne for low rise offices, warehouses, medical suites and retail buildings. Precast, panel, render and Colorbond washed from the ground where access allows.",
@@ -206,7 +206,7 @@
     "status": "published",
     "createdAt": "2026-10-28T23:53:10.618Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-28T23:57:10.873Z",
+    "updatedAt": "2026-10-29T00:29:59.342Z",
     "updatedBy": "joshua"
   },
   {
@@ -708,7 +708,7 @@
   {
     "id": "pg-45",
     "path": "/commercial/factory-industrial",
-    "type": "service",
+    "type": "industry",
     "title": "Factory and Industrial Exterior Cleaning Melbourne | Prime Exteriors",
     "seoTitle": "Factory and Industrial Exterior Cleaning Melbourne | Prime Exteriors",
     "seoDescription": "Industrial exterior cleaning in Melbourne for heavier soiling: oil, grease, rubber, carbon and process residue on hardstand and plant surrounds, with run off contained and directed rather than sent to stormwater.",
@@ -718,7 +718,7 @@
     "status": "draft",
     "createdAt": "2026-10-29T00:08:10.369Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-29T00:08:10.369Z",
+    "updatedAt": "2026-10-29T00:29:59.342Z",
     "updatedBy": "joshua"
   },
   {
@@ -1396,7 +1396,7 @@
   {
     "id": "pg-88",
     "path": "/commercial/medical-aged-care",
-    "type": "service",
+    "type": "industry",
     "title": "Medical and Aged Care Exterior Cleaning Melbourne | Prime Exteriors",
     "seoTitle": "Medical and Aged Care Exterior Cleaning Melbourne | Prime Exteriors",
     "seoDescription": "Exterior cleaning for Melbourne medical practices and aged care facilities. Entries, paths, courtyards and ambulance bays, scheduled around residents and patients with falls risk treated as the priority.",
@@ -1406,7 +1406,7 @@
     "status": "draft",
     "createdAt": "2026-10-29T00:16:04.045Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-29T00:16:04.045Z",
+    "updatedAt": "2026-10-29T00:29:59.342Z",
     "updatedBy": "joshua"
   },
   {
@@ -1652,7 +1652,7 @@
   {
     "id": "pg-104",
     "path": "/commercial/real-estate-property-managers",
-    "type": "service",
+    "type": "industry",
     "title": "Exterior Cleaning for Real Estate and Property Managers Melbourne | Prime Exteriors",
     "seoTitle": "Exterior Cleaning for Real Estate and Property Managers Melbourne | Prime Exteriors",
     "seoDescription": "Exterior cleaning across a rent roll or a sales campaign in Melbourne. Vacate turnarounds, pre-campaign presentation and routine maintenance, booked by the agency and invoiced the way your trust accounting needs it.",
@@ -1662,7 +1662,7 @@
     "status": "draft",
     "createdAt": "2026-10-29T00:19:35.807Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-29T00:19:35.807Z",
+    "updatedAt": "2026-10-29T00:29:59.342Z",
     "updatedBy": "joshua"
   },
   {
@@ -1684,7 +1684,7 @@
   {
     "id": "pg-106",
     "path": "/commercial/retail-hospitality",
-    "type": "service",
+    "type": "industry",
     "title": "Retail and Hospitality Exterior Cleaning Melbourne | Prime Exteriors",
     "seoTitle": "Retail and Hospitality Exterior Cleaning Melbourne | Prime Exteriors",
     "seoDescription": "Exterior cleaning for Melbourne retail and hospitality. Shopfronts, entries, footpaths, alfresco areas and awnings, done before opening so nothing interrupts trade.",
@@ -1694,7 +1694,7 @@
     "status": "draft",
     "createdAt": "2026-10-29T00:19:35.807Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-29T00:19:35.807Z",
+    "updatedAt": "2026-10-29T00:29:59.342Z",
     "updatedBy": "joshua"
   },
   {
@@ -1748,7 +1748,7 @@
   {
     "id": "pg-110",
     "path": "/commercial/scheduled-exterior-maintenance",
-    "type": "service",
+    "type": "industry",
     "title": "Scheduled Exterior Maintenance Melbourne | Prime Exteriors",
     "seoTitle": "Scheduled Exterior Maintenance Melbourne | Prime Exteriors",
     "seoDescription": "Scheduled exterior maintenance for Melbourne commercial sites. An agreed scope at an agreed frequency, costed per visit and approved once, so the work happens without anyone having to notice or raise it.",
@@ -1758,13 +1758,13 @@
     "status": "draft",
     "createdAt": "2026-10-29T00:24:10.030Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-29T00:24:10.030Z",
+    "updatedAt": "2026-10-29T00:29:59.342Z",
     "updatedBy": "joshua"
   },
   {
     "id": "pg-111",
     "path": "/commercial/schools-childcare",
-    "type": "service",
+    "type": "industry",
     "title": "School and Childcare Exterior Cleaning Melbourne | Prime Exteriors",
     "seoTitle": "School and Childcare Exterior Cleaning Melbourne | Prime Exteriors",
     "seoDescription": "Exterior cleaning for Melbourne schools and childcare centres. Walkways, play areas, shade structures and entries, scheduled into term breaks and holidays rather than around them.",
@@ -1774,7 +1774,7 @@
     "status": "draft",
     "createdAt": "2026-10-29T00:24:10.030Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-29T00:24:10.030Z",
+    "updatedAt": "2026-10-29T00:29:59.342Z",
     "updatedBy": "joshua"
   },
   {
@@ -1812,7 +1812,7 @@
   {
     "id": "pg-114",
     "path": "/commercial/sign-cleaning",
-    "type": "service",
+    "type": "industry",
     "title": "Sign Cleaning Melbourne | Illuminated, Acrylic and Metal Signage | Prime Exteriors",
     "seoTitle": "Sign Cleaning Melbourne | Illuminated, Acrylic and Metal Signage | Prime Exteriors",
     "seoDescription": "Commercial sign cleaning across Melbourne. Illuminated lightboxes, acrylic faces, powder coated metal, vinyl and pylon signs, cleaned at the pressure and chemistry each one can take.",
@@ -1822,7 +1822,7 @@
     "status": "draft",
     "createdAt": "2026-10-29T00:24:10.030Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-29T00:24:10.030Z",
+    "updatedAt": "2026-10-29T00:29:59.342Z",
     "updatedBy": "joshua"
   },
   {
@@ -1892,7 +1892,7 @@
   {
     "id": "pg-119",
     "path": "/commercial/tennis-court-sports-surface-cleaning",
-    "type": "service",
+    "type": "industry",
     "title": "Tennis Court Cleaning Melbourne | Sports Surface Cleaning | Prime Exteriors",
     "seoTitle": "Tennis Court Cleaning Melbourne | Sports Surface Cleaning | Prime Exteriors",
     "seoDescription": "Tennis court and sports surface cleaning across Melbourne. Acrylic hard court, synthetic grass, asphalt and multi purpose courts cleaned for grip and drainage, for clubs, schools and body corporate.",
@@ -1902,7 +1902,7 @@
     "status": "draft",
     "createdAt": "2026-10-29T00:24:10.030Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-29T00:24:10.030Z",
+    "updatedAt": "2026-10-29T00:29:59.342Z",
     "updatedBy": "joshua"
   },
   {
