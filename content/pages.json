@@ -404,7 +404,7 @@
   {
     "id": "pg-26",
     "path": "/locations/vic/exterior-cleaning-banyule",
-    "type": "page",
+    "type": "location",
     "title": "Exterior cleaning Banyule | Prime Exteriors",
     "seoTitle": "Exterior cleaning Banyule | Prime Exteriors",
     "seoDescription": "Exterior cleaning across every suburb of Banyule, 14.3 km from our Dallas 3047 base, including efflorescence on new brick and render.",
@@ -414,13 +414,13 @@
     "status": "draft",
     "createdAt": "2026-10-29T00:04:11.046Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-29T00:04:11.046Z",
+    "updatedAt": "2026-10-29T00:05:47.511Z",
     "updatedBy": "joshua"
   },
   {
     "id": "pg-27",
     "path": "/locations/vic/exterior-cleaning-boroondara",
-    "type": "page",
+    "type": "location",
     "title": "Exterior cleaning Boroondara | Prime Exteriors",
     "seoTitle": "Exterior cleaning Boroondara | Prime Exteriors",
     "seoDescription": "Exterior cleaning for homes, commercial and body corporate property across Boroondara, including when a clean is not the answer.",
@@ -430,13 +430,13 @@
     "status": "draft",
     "createdAt": "2026-10-29T00:04:11.046Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-29T00:04:11.046Z",
+    "updatedAt": "2026-10-29T00:05:47.511Z",
     "updatedBy": "joshua"
   },
   {
     "id": "pg-28",
     "path": "/locations/vic/exterior-cleaning-brimbank",
-    "type": "page",
+    "type": "location",
     "title": "Exterior cleaning Brimbank | Prime Exteriors",
     "seoTitle": "Exterior cleaning Brimbank | Prime Exteriors",
     "seoDescription": "Exterior cleaning across Brimbank, 14.4 km from base, taken one surface at a time or as the whole outside of the property at once.",
@@ -446,13 +446,13 @@
     "status": "draft",
     "createdAt": "2026-10-29T00:04:11.046Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-29T00:04:11.046Z",
+    "updatedAt": "2026-10-29T00:05:47.511Z",
     "updatedBy": "joshua"
   },
   {
     "id": "pg-29",
     "path": "/locations/vic/exterior-cleaning-darebin",
-    "type": "page",
+    "type": "location",
     "title": "Exterior cleaning Darebin | Prime Exteriors",
     "seoTitle": "Exterior cleaning Darebin | Prime Exteriors",
     "seoDescription": "Exterior cleaning across Darebin, 9.9 km from our Dallas 3047 base, where gums drop all year and keep the roofs and gutters working.",
@@ -462,13 +462,13 @@
     "status": "draft",
     "createdAt": "2026-10-29T00:04:11.046Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-29T00:04:11.046Z",
+    "updatedAt": "2026-10-29T00:05:47.511Z",
     "updatedBy": "joshua"
   },
   {
     "id": "pg-30",
     "path": "/locations/vic/exterior-cleaning-hobsons-bay",
-    "type": "page",
+    "type": "location",
     "title": "Exterior cleaning Hobsons Bay | Prime Exteriors",
     "seoTitle": "Exterior cleaning Hobsons Bay | Prime Exteriors",
     "seoDescription": "Exterior cleaning across Hobsons Bay, written for people deciding whether to call, including when in the season to book it.",
@@ -478,13 +478,13 @@
     "status": "draft",
     "createdAt": "2026-10-29T00:04:11.046Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-29T00:04:11.046Z",
+    "updatedAt": "2026-10-29T00:05:47.511Z",
     "updatedBy": "joshua"
   },
   {
     "id": "pg-31",
     "path": "/locations/vic/exterior-cleaning-hume",
-    "type": "page",
+    "type": "location",
     "title": "Exterior cleaning Hume | Prime Exteriors",
     "seoTitle": "Exterior cleaning Hume | Prime Exteriors",
     "seoDescription": "Exterior cleaning across every suburb in Hume, 3.7 km from our base, where most jobs cover several surfaces on the one visit.",
@@ -494,13 +494,13 @@
     "status": "draft",
     "createdAt": "2026-10-29T00:04:11.046Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-29T00:04:11.046Z",
+    "updatedAt": "2026-10-29T00:05:47.511Z",
     "updatedBy": "joshua"
   },
   {
     "id": "pg-32",
     "path": "/locations/vic/exterior-cleaning-manningham",
-    "type": "page",
+    "type": "location",
     "title": "Exterior cleaning Manningham | Prime Exteriors",
     "seoTitle": "Exterior cleaning Manningham | Prime Exteriors",
     "seoDescription": "Exterior cleaning across Manningham, 22.8 km from base, where four elevations of a house usually present three different problems.",
@@ -510,7 +510,7 @@
     "status": "draft",
     "createdAt": "2026-10-29T00:04:11.046Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-29T00:04:11.046Z",
+    "updatedAt": "2026-10-29T00:05:47.511Z",
     "updatedBy": "joshua"
   }
 ]
