@@ -675,7 +675,7 @@
   {
     "id": "pg-43",
     "path": "/services/house-building-washing/facade-cleaning",
-    "type": "page",
+    "type": "service",
     "title": "Facade Cleaning Melbourne | Commercial and Multi Storey | Prime Exteriors",
     "seoTitle": "Facade Cleaning Melbourne | Commercial and Multi Storey | Prime Exteriors",
     "seoDescription": "Facade cleaning for Melbourne commercial and multi storey buildings. Precast, render, panel and composite elevations soft washed, with the access method and the documentation agreed before the first attendance.",
@@ -685,7 +685,7 @@
     "status": "draft",
     "createdAt": "2026-10-30T03:52:00.790Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-30T03:52:00.790Z",
+    "updatedAt": "2026-10-30T04:12:10.553Z",
     "updatedBy": "joshua"
   },
   {
@@ -707,7 +707,7 @@
   {
     "id": "pg-45",
     "path": "/services/pressure-surface-cleaning/fence-cleaning",
-    "type": "page",
+    "type": "service",
     "title": "Fence Cleaning Melbourne | Colorbond, Brick and Timber | Prime Exteriors",
     "seoTitle": "Fence Cleaning Melbourne | Colorbond, Brick and Timber | Prime Exteriors",
     "seoDescription": "Fence cleaning across Melbourne for Colorbond, brick, render and timber boundary fencing. Washed with neutral chemistry that is kind to the coating, and the shaded side done as well as the sunny one.",
@@ -717,13 +717,13 @@
     "status": "draft",
     "createdAt": "2026-10-30T03:52:00.790Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-30T03:52:00.790Z",
+    "updatedAt": "2026-10-30T04:12:10.553Z",
     "updatedBy": "joshua"
   },
   {
     "id": "pg-46",
     "path": "/services/windows-gutters-roof-solar/glass-balustrade-pool-glass-cleaning",
-    "type": "page",
+    "type": "service",
     "title": "Glass Balustrade and Pool Glass Cleaning Melbourne | Prime Exteriors",
     "seoTitle": "Glass Balustrade and Pool Glass Cleaning Melbourne | Prime Exteriors",
     "seoDescription": "Cleaning frameless glass pool fencing and balustrades across Melbourne. The dull band at splash height is mineral deposit from pool water, and left long enough it etches the glass permanently.",
@@ -733,7 +733,7 @@
     "status": "draft",
     "createdAt": "2026-10-30T03:52:00.790Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-30T03:52:00.790Z",
+    "updatedAt": "2026-10-30T04:12:10.553Z",
     "updatedBy": "joshua"
   },
   {
@@ -1699,7 +1699,7 @@
   {
     "id": "pg-107",
     "path": "/services/windows-gutters-roof-solar/roof-cleaning",
-    "type": "page",
+    "type": "service",
     "title": "Roof Cleaning Melbourne | Tile and Metal Roof Moss Treatment | Prime Exteriors",
     "seoTitle": "Roof Cleaning Melbourne | Tile and Metal Roof Moss Treatment | Prime Exteriors",
     "seoDescription": "Roof cleaning across Melbourne for concrete tile, terracotta and metal roofs. Moss and lichen treated and left to weather off, with the roof assessed first because not every roof should be walked on.",
@@ -1709,13 +1709,13 @@
     "status": "draft",
     "createdAt": "2026-10-30T04:07:30.555Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-30T04:07:30.555Z",
+    "updatedAt": "2026-10-30T04:12:10.553Z",
     "updatedBy": "joshua"
   },
   {
     "id": "pg-108",
     "path": "/services/stain-surface-restoration/rust-stain-removal",
-    "type": "page",
+    "type": "service",
     "title": "Rust Stain Removal Melbourne | Concrete and Aggregate | Prime Exteriors",
     "seoTitle": "Rust Stain Removal Melbourne | Concrete and Aggregate | Prime Exteriors",
     "seoDescription": "Rust stain removal from Melbourne concrete, exposed aggregate, paving and stone. Treated with the right remover for the source, which has to be identified first or the stain simply returns.",
@@ -1725,7 +1725,7 @@
     "status": "draft",
     "createdAt": "2026-10-30T04:07:30.555Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-30T04:07:30.555Z",
+    "updatedAt": "2026-10-30T04:12:10.553Z",
     "updatedBy": "joshua"
   },
   {
@@ -1763,7 +1763,7 @@
   {
     "id": "pg-111",
     "path": "/services/sealing-surface-protection",
-    "type": "page",
+    "type": "service",
     "title": "Concrete Sealing Melbourne | Driveway and Surface Protection | Prime Exteriors",
     "seoTitle": "Concrete Sealing Melbourne | Driveway and Surface Protection | Prime Exteriors",
     "seoDescription": "Concrete sealing and surface protection across Melbourne. Penetrating, topical, colour and anti slip sealers for driveways, aggregate, pavers and stone, applied on a clean dry surface so it lasts.",
@@ -1773,13 +1773,13 @@
     "status": "draft",
     "createdAt": "2026-10-30T04:07:30.555Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-30T04:07:30.555Z",
+    "updatedAt": "2026-10-30T04:12:10.553Z",
     "updatedBy": "joshua"
   },
   {
     "id": "pg-112",
     "path": "/services",
-    "type": "page",
+    "type": "service",
     "title": "Exterior Cleaning Services Melbourne | Prime Exteriors",
     "seoTitle": "Exterior Cleaning Services Melbourne | Prime Exteriors",
     "seoDescription": "The six things we do to the outside of a Melbourne property: pressure and surface cleaning, house washing, windows and gutters, stain removal, sealing, and builders cleans. Tell us what the surface is doing and we will do the rest.",
@@ -1789,7 +1789,7 @@
     "status": "draft",
     "createdAt": "2026-10-30T04:07:30.555Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-30T04:07:30.555Z",
+    "updatedAt": "2026-10-30T04:12:10.553Z",
     "updatedBy": "joshua"
   },
   {
@@ -1811,7 +1811,7 @@
   {
     "id": "pg-114",
     "path": "/services/house-building-washing/soft-washing",
-    "type": "page",
+    "type": "service",
     "title": "Soft Washing Melbourne | Low Pressure Exterior Cleaning | Prime Exteriors",
     "seoTitle": "Soft Washing Melbourne | Low Pressure Exterior Cleaning | Prime Exteriors",
     "seoDescription": "Soft washing across Melbourne. Low pressure and a treatment solution instead of force, for render, cladding, weatherboard, roofs and anything a pressure washer would damage.",
@@ -1821,13 +1821,13 @@
     "status": "draft",
     "createdAt": "2026-10-30T04:07:30.555Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-30T04:07:30.555Z",
+    "updatedAt": "2026-10-30T04:12:10.553Z",
     "updatedBy": "joshua"
   },
   {
     "id": "pg-115",
     "path": "/services/windows-gutters-roof-solar/solar-panel-cleaning",
-    "type": "page",
+    "type": "service",
     "title": "Solar Panel Cleaning Melbourne | Deionised Water Only | Prime Exteriors",
     "seoTitle": "Solar Panel Cleaning Melbourne | Deionised Water Only | Prime Exteriors",
     "seoDescription": "Solar panel cleaning across Melbourne with deionised water and a soft brush. No detergent, no abrasives and nothing that marks the anti-reflective coating. Worth doing on some arrays and not on others.",
@@ -1837,13 +1837,13 @@
     "status": "draft",
     "createdAt": "2026-10-30T04:07:30.555Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-30T04:07:30.555Z",
+    "updatedAt": "2026-10-30T04:12:10.553Z",
     "updatedBy": "joshua"
   },
   {
     "id": "pg-116",
     "path": "/services/stain-surface-restoration",
-    "type": "page",
+    "type": "service",
     "title": "Stain Removal and Surface Restoration Melbourne | Prime Exteriors",
     "seoTitle": "Stain Removal and Surface Restoration Melbourne | Prime Exteriors",
     "seoDescription": "Removing the stains that sit inside the material: rust, oil, gum, paint overspray, efflorescence and mineral staining on Melbourne concrete, aggregate, paving and masonry. Test patch before the job.",
@@ -1853,13 +1853,13 @@
     "status": "draft",
     "createdAt": "2026-10-30T04:07:30.555Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-30T04:07:30.555Z",
+    "updatedAt": "2026-10-30T04:12:10.553Z",
     "updatedBy": "joshua"
   },
   {
     "id": "pg-117",
     "path": "/services/sealing-surface-protection/stone-bluestone-sealing",
-    "type": "page",
+    "type": "service",
     "title": "Stone and Bluestone Sealing Melbourne | Prime Exteriors",
     "seoTitle": "Stone and Bluestone Sealing Melbourne | Prime Exteriors",
     "seoDescription": "Sealing bluestone, travertine, limestone, sandstone and granite across Melbourne. Natural stone is far more porous than it looks, and the sealer has to suit the stone rather than the look.",
@@ -1869,7 +1869,7 @@
     "status": "draft",
     "createdAt": "2026-10-30T04:07:30.555Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-30T04:07:30.555Z",
+    "updatedAt": "2026-10-30T04:12:10.553Z",
     "updatedBy": "joshua"
   },
   {
