@@ -499,7 +499,7 @@
   {
     "id": "pg-32",
     "path": "/locations/vic/exterior-cleaning-maribyrnong",
-    "type": "page",
+    "type": "location",
     "title": "Exterior cleaning Maribyrnong | Prime Exteriors",
     "seoTitle": "Exterior cleaning Maribyrnong | Prime Exteriors",
     "seoDescription": "Exterior cleaning across Maribyrnong, covering the western suburbs housing stock and getting a property ready for market.",
@@ -509,13 +509,13 @@
     "status": "draft",
     "createdAt": "2026-10-30T03:52:00.790Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-30T03:52:00.790Z",
+    "updatedAt": "2026-10-30T04:11:25.406Z",
     "updatedBy": "joshua"
   },
   {
     "id": "pg-33",
     "path": "/locations/vic/exterior-cleaning-melbourne-cbd",
-    "type": "page",
+    "type": "location",
     "title": "Exterior cleaning Melbourne CBD | Prime Exteriors",
     "seoTitle": "Exterior cleaning Melbourne CBD | Prime Exteriors",
     "seoDescription": "Exterior cleaning in Melbourne CBD: shared driveways, bin stores, lobbies and glazing, with the scope agreed before work starts.",
@@ -525,13 +525,13 @@
     "status": "draft",
     "createdAt": "2026-10-30T03:52:00.790Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-30T03:52:00.790Z",
+    "updatedAt": "2026-10-30T04:11:25.406Z",
     "updatedBy": "joshua"
   },
   {
     "id": "pg-34",
     "path": "/locations/vic/exterior-cleaning-melton",
-    "type": "page",
+    "type": "location",
     "title": "Exterior cleaning Melton | Prime Exteriors",
     "seoTitle": "Exterior cleaning Melton | Prime Exteriors",
     "seoDescription": "Exterior cleaning across Melton, a 17 km run from Dallas 3047, where reaching the surface is most of the job on a two storey home.",
@@ -541,13 +541,13 @@
     "status": "draft",
     "createdAt": "2026-10-30T03:52:00.790Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-30T03:52:00.790Z",
+    "updatedAt": "2026-10-30T04:11:25.406Z",
     "updatedBy": "joshua"
   },
   {
     "id": "pg-35",
     "path": "/locations/vic/exterior-cleaning-merri-bek",
-    "type": "page",
+    "type": "location",
     "title": "Exterior cleaning Merri-bek | Prime Exteriors",
     "seoTitle": "Exterior cleaning Merri-bek | Prime Exteriors",
     "seoDescription": "Exterior cleaning across Merri-bek, 7.2 km from base, including presentation work before a property goes on the market.",
@@ -557,13 +557,13 @@
     "status": "draft",
     "createdAt": "2026-10-30T03:52:00.790Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-30T03:52:00.790Z",
+    "updatedAt": "2026-10-30T04:11:25.406Z",
     "updatedBy": "joshua"
   },
   {
     "id": "pg-36",
     "path": "/locations/vic/exterior-cleaning-moonee-valley",
-    "type": "page",
+    "type": "location",
     "title": "Exterior cleaning Moonee Valley | Prime Exteriors",
     "seoTitle": "Exterior cleaning Moonee Valley | Prime Exteriors",
     "seoDescription": "Driveways, house washing, windows, gutters, stain removal and sealing across Moonee Valley, with one point of contact throughout.",
@@ -573,13 +573,13 @@
     "status": "draft",
     "createdAt": "2026-10-30T03:52:00.790Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-30T03:52:00.790Z",
+    "updatedAt": "2026-10-30T04:11:25.406Z",
     "updatedBy": "joshua"
   },
   {
     "id": "pg-37",
     "path": "/locations/vic/exterior-cleaning-nillumbik",
-    "type": "page",
+    "type": "location",
     "title": "Exterior cleaning Nillumbik | Prime Exteriors",
     "seoTitle": "Exterior cleaning Nillumbik | Prime Exteriors",
     "seoDescription": "Exterior cleaning across Nillumbik, 20.4 km from base, where the building stock decides the method on every quote we write.",
@@ -589,13 +589,13 @@
     "status": "draft",
     "createdAt": "2026-10-30T03:52:00.790Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-30T03:52:00.790Z",
+    "updatedAt": "2026-10-30T04:11:25.406Z",
     "updatedBy": "joshua"
   },
   {
     "id": "pg-38",
     "path": "/locations/vic/exterior-cleaning-port-phillip",
-    "type": "page",
+    "type": "location",
     "title": "Exterior cleaning Port Phillip | Prime Exteriors",
     "seoTitle": "Exterior cleaning Port Phillip | Prime Exteriors",
     "seoDescription": "Exterior cleaning across Port Phillip, organised the way a quote is, starting with everything above head height and working down.",
@@ -605,13 +605,13 @@
     "status": "draft",
     "createdAt": "2026-10-30T03:52:00.790Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-30T03:52:00.790Z",
+    "updatedAt": "2026-10-30T04:11:25.406Z",
     "updatedBy": "joshua"
   },
   {
     "id": "pg-39",
     "path": "/locations/vic/exterior-cleaning-stonnington",
-    "type": "page",
+    "type": "location",
     "title": "Exterior cleaning Stonnington | Prime Exteriors",
     "seoTitle": "Exterior cleaning Stonnington | Prime Exteriors",
     "seoDescription": "Exterior cleaning across Stonnington, a 21.9 km run from Dallas 3047, including the parts of an exterior nobody individually owns.",
@@ -621,13 +621,13 @@
     "status": "draft",
     "createdAt": "2026-10-30T03:52:00.790Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-30T03:52:00.790Z",
+    "updatedAt": "2026-10-30T04:11:25.406Z",
     "updatedBy": "joshua"
   },
   {
     "id": "pg-40",
     "path": "/locations/vic/exterior-cleaning-whitehorse",
-    "type": "page",
+    "type": "location",
     "title": "Exterior cleaning Whitehorse | Prime Exteriors",
     "seoTitle": "Exterior cleaning Whitehorse | Prime Exteriors",
     "seoDescription": "Exterior cleaning across every suburb of Whitehorse, covering oil stains, how far they come back, and where DIY stops being sensible.",
@@ -637,13 +637,13 @@
     "status": "draft",
     "createdAt": "2026-10-30T03:52:00.790Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-30T03:52:00.790Z",
+    "updatedAt": "2026-10-30T04:11:25.406Z",
     "updatedBy": "joshua"
   },
   {
     "id": "pg-41",
     "path": "/locations/vic/exterior-cleaning-whittlesea",
-    "type": "page",
+    "type": "location",
     "title": "Exterior cleaning Whittlesea | Prime Exteriors",
     "seoTitle": "Exterior cleaning Whittlesea | Prime Exteriors",
     "seoDescription": "Hard surfaces, walls, glass and everything above head height across Whittlesea, helped by how soft the Melbourne water supply is.",
@@ -653,13 +653,13 @@
     "status": "draft",
     "createdAt": "2026-10-30T03:52:00.790Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-30T03:52:00.790Z",
+    "updatedAt": "2026-10-30T04:11:25.406Z",
     "updatedBy": "joshua"
   },
   {
     "id": "pg-42",
     "path": "/locations/vic/exterior-cleaning-yarra",
-    "type": "page",
+    "type": "location",
     "title": "Exterior cleaning Yarra | Prime Exteriors",
     "seoTitle": "Exterior cleaning Yarra | Prime Exteriors",
     "seoDescription": "Cleaning, restoration and protection of outdoor surfaces across every suburb in Yarra, with the tree setting the interval.",
@@ -669,7 +669,7 @@
     "status": "draft",
     "createdAt": "2026-10-30T03:52:00.790Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-30T03:52:00.790Z",
+    "updatedAt": "2026-10-30T04:11:25.406Z",
     "updatedBy": "joshua"
   },
   {
@@ -1923,7 +1923,7 @@
   {
     "id": "pg-121",
     "path": "/locations/vic",
-    "type": "page",
+    "type": "location",
     "title": "Exterior Cleaning in Victoria | What Melbourne Conditions Change | Prime Exteriors",
     "seoTitle": "Exterior Cleaning in Victoria | What Melbourne Conditions Change | Prime Exteriors",
     "seoDescription": "Prime Exteriors works across metropolitan Melbourne. What the Victorian climate, the local water and the local building stock change about exterior cleaning, across eighteen council areas.",
@@ -1933,7 +1933,7 @@
     "status": "draft",
     "createdAt": "2026-10-30T04:07:30.555Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-30T04:07:30.555Z",
+    "updatedAt": "2026-10-30T04:11:25.406Z",
     "updatedBy": "joshua"
   },
   {
