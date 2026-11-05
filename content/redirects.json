@@ -26,12 +26,5 @@
     "code": 301,
     "at": "2026-10-30T04:18:04.757Z",
     "fromRaw": "/service/window-cleaning"
-  },
-  {
-    "from": "/coming-soon",
-    "to": "/",
-    "code": 301,
-    "at": "2026-10-30T04:18:04.757Z",
-    "fromRaw": "/coming-soon"
   }
 ]
