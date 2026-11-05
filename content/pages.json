@@ -2195,7 +2195,7 @@
   },
   {
     "id": "pg-138",
-    "path": "/prime-exteriors-coming-soon-single-file",
+    "path": "/coming-soon",
     "type": "page",
     "title": "Prime Exteriors",
     "seoTitle": "Prime Exteriors",
@@ -2203,10 +2203,10 @@
     "layout": "mockup",
     "headerPartId": null,
     "footerPartId": null,
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-11-05T23:47:56.858Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-11-05T23:47:56.858Z",
+    "updatedAt": "2026-11-05T23:48:56.369Z",
     "updatedBy": "joshua"
   }
 ]
