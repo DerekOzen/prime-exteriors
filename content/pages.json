@@ -2186,10 +2186,11 @@
     "layout": "mockup",
     "headerPartId": null,
     "footerPartId": null,
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-11-05T23:12:34.422Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-11-05T23:12:34.422Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-11-05T23:13:04.964Z",
+    "updatedBy": "joshua",
+    "noindex": true
   }
 ]
