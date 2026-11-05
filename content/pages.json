@@ -2175,5 +2175,21 @@
     "createdBy": "joshua",
     "updatedAt": "2026-10-30T04:14:05.893Z",
     "updatedBy": "joshua"
+  },
+  {
+    "id": "pg-137",
+    "path": "/coming-soon",
+    "type": "page",
+    "title": "Prime Exteriors | Melbourne exterior cleaning",
+    "seoTitle": "Prime Exteriors | Melbourne exterior cleaning",
+    "seoDescription": "Our new website is on its way. Prime Exteriors is still taking bookings for exterior cleaning, restoration and protection across Melbourne. Call 0400 638 010.",
+    "layout": "mockup",
+    "headerPartId": null,
+    "footerPartId": null,
+    "status": "draft",
+    "createdAt": "2026-11-05T23:12:34.422Z",
+    "createdBy": "joshua",
+    "updatedAt": "2026-11-05T23:12:34.422Z",
+    "updatedBy": "joshua"
   }
 ]
