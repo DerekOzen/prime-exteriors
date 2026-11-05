@@ -2192,5 +2192,21 @@
     "updatedAt": "2026-11-05T23:13:04.964Z",
     "updatedBy": "joshua",
     "noindex": true
+  },
+  {
+    "id": "pg-138",
+    "path": "/prime-exteriors-coming-soon-single-file",
+    "type": "page",
+    "title": "Prime Exteriors",
+    "seoTitle": "Prime Exteriors",
+    "seoDescription": "Prime Exteriors. Our website is currently being updated and will be back shortly.",
+    "layout": "mockup",
+    "headerPartId": null,
+    "footerPartId": null,
+    "status": "draft",
+    "createdAt": "2026-11-05T23:47:56.858Z",
+    "createdBy": "joshua",
+    "updatedAt": "2026-11-05T23:47:56.858Z",
+    "updatedBy": "joshua"
   }
 ]
